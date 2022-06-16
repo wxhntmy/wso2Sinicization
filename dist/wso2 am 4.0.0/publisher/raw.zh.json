@@ -1,0 +1,3978 @@
+{
+  "cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.subject": {
+    "defaultMessage": "主题"
+  },
+  "Apis.Details.Environments.Environments.revision.delete.confirm.title": {
+    "defaultMessage": "确认删除"
+  },
+  "Apis.Listing.ApiThumb.channel": {
+    "defaultMessage": "频道"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.create.new.description": {
+    "defaultMessage": "选择创建API的选项"
+  },
+  "Apis.Details.index.api.definition2": {
+    "defaultMessage": "API定义"
+  },
+  "Scopes.Listing.Listing.table.header.display.name": {
+    "defaultMessage": "显示名称"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.alias.default.message": {
+    "defaultMessage": "证书的别名"
+  },
+  "Apis.Details.components.DeleteApiButton.button.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.rest.api": {
+    "defaultMessage": "REST API"
+  },
+  "Apis.Listing.TaskState.generic.error.prefix": {
+    "defaultMessage": "错误时"
+  },
+  "Apis.Details.Comments.title": {
+    "defaultMessage": "评论"
+  },
+  "Apis.Details.Environments.Environments.select.rev.helper": {
+    "defaultMessage": "请选择要删除的修订，因为修订数已达到最大值{count}"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListParameter.parameter.type": {
+    "defaultMessage": "参数类型"
+  },
+  "Apis.Details.scopes.Edit.text.editor.edit": {
+    "defaultMessage": "编辑"
+  },
+  "Apis.Details.Configuration.components.APISecurity.TranportLevel.certificate.alias.error": {
+    "defaultMessage": "添加API证书时出错"
+  },
+  "Apis.Details.Topics.components.operationComponents.OperationGovernance.operation.scope.select.local": {
+    "defaultMessage": "API范围"
+  },
+  "Apis.Details.Endpoints.GenericEndpoint.config.endpoint": {
+    "defaultMessage": "端点配置"
+  },
+  "Apis.Details.Overview.CustomizedStepper.Develop": {
+    "defaultMessage": "发展"
+  },
+  "Apis.Details.ApiConsole.ApiConsole.title": {
+    "defaultMessage": "测试"
+  },
+  "Apis.Listing.components.ImageGenerator.DocThumb.apiVersion": {
+    "defaultMessage": "API版本"
+  },
+  "Apis.Details.APIDefinition.WSDL.preview.not.available": {
+    "defaultMessage": "API具有WSDL ZIP，因此预览不可用。"
+  },
+  "Apis.Details.NewOverview.MetaData.securityScheme.tooltip": {
+    "defaultMessage": "OAuth2用作默认的安全模式。"
+  },
+  "Scopes.Create.CreateScope.heading.scope.heading": {
+    "defaultMessage": "范围"
+  },
+  "Apis.Details.index.design.configs": {
+    "defaultMessage": "基本信息"
+  },
+  "Apis.Details.components.DeleteApiButton.delete": {
+    "defaultMessage": "删除"
+  },
+  "Apis.Details.Resources.components.AddOperation.clear.inputs.tooltip": {
+    "defaultMessage": "清除输入"
+  },
+  "Apis.Details.APIDefinition.AuditApi.DataValidationNumOfIssues": {
+    "defaultMessage": "{dataNumOfIssuesText}{dataNumOfIssues}"
+  },
+  "Apis.Details.APIDefinition.AuditApi.tooltip.low": {
+    "defaultMessage": "2、低"
+  },
+  "Apis.Details.ApiConsole.deployments.api.gateways": {
+    "defaultMessage": "API网关"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.data.format": {
+    "defaultMessage": "数据格式"
+  },
+  "Apis.Details.components.APIDetailsTopMenu.error": {
+    "defaultMessage": "下载API时出错。"
+  },
+  "Apis.Details.APIDefinition.AuditApi.LinkToDetailedReport": {
+    "defaultMessage": "{linkToDetailedReportText}{link}{afterLinkText}"
+  },
+  "Apis.Create.GraphQL.ApiCreateGraphQL.wizard.two": {
+    "defaultMessage": "创建API"
+  },
+  "Base.Header.headersearch.HeaderSearch.search_api.tooltip": {
+    "defaultMessage": "搜索"
+  },
+  "app.components.Shared.Banner.back": {
+    "defaultMessage": "返回"
+  },
+  "Apis.Create.AsyncAPI.ApiCreateAsyncAPI.heading": {
+    "defaultMessage": "使用AsyncAPI定义创建API。"
+  },
+  "Apis.Details.Topics.components.AddOperation.op.type": {
+    "defaultMessage": "类型"
+  },
+  "Scopes.Usage.Usage.api.provider": {
+    "defaultMessage": "供应商："
+  },
+  "Apis.Create.WSDL.Steps.ProvideWSDL.file.label.wsdl.file.archive": {
+    "defaultMessage": "WSDL文件/归档"
+  },
+  "Apis.Details.Topics.components.operationComponents.OperationGovernance.subTitle": {
+    "defaultMessage": "（安全性和范围）"
+  },
+  "Apis.Create.WSDL.Steps.ProvideWSDL.Input.type": {
+    "defaultMessage": "输入类型"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.delete.cancel.button": {
+    "defaultMessage": "取消"
+  },
+  "ServiceCatalog.ServicesTableView.ServicesTableView.version": {
+    "defaultMessage": "版本"
+  },
+  "Apis.Details.index.topics": {
+    "defaultMessage": "主题"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.initial.duration.ms": {
+    "defaultMessage": "初始持续时间（ms）"
+  },
+  "Apis.Details.index.wsdl.definition": {
+    "defaultMessage": "WSDL定义"
+  },
+  "Apis.Details.Documents.CreateEditForm.duplicate.document.name.helper.text": {
+    "defaultMessage": "重复的文档名称"
+  },
+  "Apis.Details.Topics.components.operationComponents.ListPayloadProps.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.business.owner.email.helper.text.error": {
+    "defaultMessage": "请输入有效的电子邮件地址"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.download.definition": {
+    "defaultMessage": "下载定义"
+  },
+  "Apis.Details.Environments.Environments.revision.delete.confirm.message": {
+    "defaultMessage": "确实要删除{修订版}吗？"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.error.updating.graphQL.schema": {
+    "defaultMessage": "更新GraphQL架构时出错"
+  },
+  "Apis.Listing.SampleAPI.popup.publish.complete": {
+    "defaultMessage": "API发布成功！"
+  },
+  "Apis.Details.index.runtime.configs": {
+    "defaultMessage": "运行时"
+  },
+  "Apis.Details.Configuration.components.AccessControl.tooltip.all": {
+    "defaultMessage": "全部："
+  },
+  "Apis.Details.Topics.components.operationComponents.OperationGovernance.title": {
+    "defaultMessage": "运营治理"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.create.type.how.to": {
+    "defaultMessage": "如何"
+  },
+  "Apis.Details.Endpoints..EndpointOverview.change.type.proceed": {
+    "defaultMessage": "继续"
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.LifecyclePending.pending": {
+    "defaultMessage": "挂起的生命周期状态更改。"
+  },
+  "LoginDenied.logout": {
+    "defaultMessage": "注销"
+  },
+  "Apis.Listing.ApiTableView.items.per.page": {
+    "defaultMessage": "每页项目数"
+  },
+  "Apis.Details.APIDefinition.AuditApi.ApiSecurityAuditReport": {
+    "defaultMessage": "API安全审计报告"
+  },
+  "Apis.Details.Configuration.components.Transports.tooltip": {
+    "defaultMessage": "API将在网关中的选定传输中公开。如果选择了相互SSL选项，则应提供受信任的客户端证书以访问API"
+  },
+  "Apis.Details.index.left.menu.scope": {
+    "defaultMessage": "本地作用域"
+  },
+  "Scopes.EditScope.heading.scope.heading": {
+    "defaultMessage": "范围"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.technical.owner.email.helper.text.error": {
+    "defaultMessage": "请输入有效的电子邮件地址"
+  },
+  "Apis.Details.NewOverview.MetaData.createdTime.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.lb.failover.endpoints.header": {
+    "defaultMessage": "负载平衡和故障切换配置"
+  },
+  "Apis.Details.LifeCycle.Policies.business.plans": {
+    "defaultMessage": "商业计划书"
+  },
+  "Apis.Details.Documents.GoToEdit.description.file": {
+    "defaultMessage": "您可以返回文档列表页面，通过编辑文档上传文件。"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.sub.heading": {
+    "defaultMessage": "API的业务信息"
+  },
+  "Apis.Details.Environments.Environments.revision.restore": {
+    "defaultMessage": "恢复"
+  },
+  "Apis.Details.APIDefinition.import.asyncAPI": {
+    "defaultMessage": "导入AsyncAPI"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.certificates": {
+    "defaultMessage": "证书"
+  },
+  "Apis.Details.Monetization.Index.monetization.configured.successfully": {
+    "defaultMessage": "成功启用货币化"
+  },
+  "Base.Errors.AuthorizedError.default_tittle": {
+    "defaultMessage": "授权错误"
+  },
+  "Apis.Details.Properties.Properties.APIProduct.\n                                            add.new.property.message.content": {
+    "defaultMessage": "在此处向API添加特定的自定义属性。"
+  },
+  "Apis.Details.Environments.Environments.select.rev.warning": {
+    "defaultMessage": "请删除修订，因为修订数已达到最大值{count}"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.select.an.icon": {
+    "defaultMessage": "从API的材质图标中选择一个图标。"
+  },
+  "ServiceCatalog.CreateApi.error.create.api": {
+    "defaultMessage": "从服务创建API时出错"
+  },
+  "Apis.Details.Resources.components.AddOperation.add.tooltip": {
+    "defaultMessage": "添加新操作"
+  },
+  "Apis.Details.Configuration.components.Social.giturl": {
+    "defaultMessage": "GitHub URL"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.subscriber.info.error": {
+    "defaultMessage": "检索订阅服务器信息时出错"
+  },
+  "Apis.Details.Environments.Environments.gateway.action": {
+    "defaultMessage": "行动"
+  },
+  "Apis.Details.Endpoints.Endpoints.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Listing.SampleAPI.SampleAPIProduct.title": {
+    "defaultMessage": "让我们开始吧！"
+  },
+  "Apis.Listing.components.TopMenu.unified.search": {
+    "defaultMessage": "统一搜索"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.save": {
+    "defaultMessage": "保存"
+  },
+  "Scopes.Listing.Listing.table.header.actions": {
+    "defaultMessage": "行动"
+  },
+  "Apis.Details.Monetization.Index.monetization.properties": {
+    "defaultMessage": "货币化属性"
+  },
+  "Apis.Details.Configuration.Components.APISecurity.Components.\n                                    TransportLevel.transport.level.security": {
+    "defaultMessage": "传输级安全"
+  },
+  "Apis.Details.NewOverview.Resources.resource.not.found": {
+    "defaultMessage": "找不到资源。。。"
+  },
+  "Apis.Details.Documents.Create.title": {
+    "defaultMessage": "添加新文档"
+  },
+  "Apis.Details.Properties.Properties.\n                    property.name.empty.error": {
+    "defaultMessage": "属性名称/值不能为空"
+  },
+  "Apis.Create.Default.APICreateDefault.success.publishStatus": {
+    "defaultMessage": "已发送生命周期状态更改请求"
+  },
+  "Apis.Create.StreamingAPI.APICreateStreamingAPI.api.sub.heading": {
+    "defaultMessage": "通过提供名称、版本、上下文和端点来创建API"
+  },
+  "Apis.Details.Documents.CreateEditForm.source.inline": {
+    "defaultMessage": "内联"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.thumbnail.upload.error": {
+    "defaultMessage": "上载新缩略图时出错。请重试。"
+  },
+  "Apis.Details.NewVersion.NewVersion.create.new.version": {
+    "defaultMessage": "创建新版本"
+  },
+  "Base.Header.navbar.GlobalNavBar.apis": {
+    "defaultMessage": "应用程序编程接口"
+  },
+  "Apis.Details.APIDefinition.DefinitionOutdated.outdated.definition": {
+    "defaultMessage": "过时的定义"
+  },
+  "Apis.Details.Configuration.RuntimeConfiguration.no.km.error": {
+    "defaultMessage": "选择一个或多个关键管理者"
+  },
+  "ServiceCatalog.Listing.Overview.back.btn": {
+    "defaultMessage": "回去"
+  },
+  "Apis.Details.Resources.components.Operation.this.operation.used.in.products": {
+    "defaultMessage": "此操作用于{isUsedInAPIProduct}API产品"
+  },
+  "Apis.Details.Documents.Edit.markdown.editor.upload.error.message": {
+    "defaultMessage": "上载文件时出错。"
+  },
+  "Apis.Details.LifeCycle.components": {
+    "defaultMessage": "发布API而不部署"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.custom.policies": {
+    "defaultMessage": "自定义策略"
+  },
+  "Apis.Create.WSDL.Steps.ProvideWSDL.Input.file.dropzone": {
+    "defaultMessage": "拖放WSDL文件{break}-或-"
+  },
+  "Scopes.Delete.Delete.scope.delete": {
+    "defaultMessage": "删除"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListParameter.parameter.spec.error": {
+    "defaultMessage": "解析定义时出错！"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.send.abort": {
+    "defaultMessage": "发送中止"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.tpp.protocol.violation": {
+    "defaultMessage": "TTP协议冲突"
+  },
+  "Apis.Details.Scopes.Scopes.table.header.roles": {
+    "defaultMessage": "角色"
+  },
+  "Apis.Details.Documents.CreateEditForm.source.file": {
+    "defaultMessage": "文件"
+  },
+  "Apis.Details.Topics.components.operationComponents.ListParameter.actions": {
+    "defaultMessage": "行动"
+  },
+  "Scopes.EditScope.short.description.display.name": {
+    "defaultMessage": "输入范围显示名称（例如：：creator）"
+  },
+  "Apis.Details.Scopes.Scopes.heading.edit.scope.heading": {
+    "defaultMessage": "范围"
+  },
+  "Apis.Create.OpenAPI.ApiCreateOpenAPI.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.NewOverview.BusinessInformation.technical.owner": {
+    "defaultMessage": "技术负责人"
+  },
+  "ServiceCatalog.CreateApi.mandatory.field.label": {
+    "defaultMessage": "必填字段"
+  },
+  "Apis.Details.Subscriptions.SubscriptionAvailability.all.tenants": {
+    "defaultMessage": "所有租户均可使用"
+  },
+  "ServiceCatalog.Listing.Listing.heading": {
+    "defaultMessage": "服务目录"
+  },
+  "Apis.Details.Configuration.components.Endpoints.prototype": {
+    "defaultMessage": "原型"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.streaming.design.new.title": {
+    "defaultMessage": "Web套接字API"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.select.background": {
+    "defaultMessage": "选择背景"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.add.endpoints.header": {
+    "defaultMessage": "选择要添加的端点类型"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.create.soap.endpoint.description": {
+    "defaultMessage": "web服务的直接URI。"
+  },
+  "ServiceCatalog.Listing.Overview.service.type.graphql.tooltip": {
+    "defaultMessage": "GraphQL服务"
+  },
+  "Apis.Details.index.overview": {
+    "defaultMessage": "概述"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.prototype.endpoint.prototype.header": {
+    "defaultMessage": "原型端点"
+  },
+  "Apis.Details.Endpoints.Endpoints.missing.accessKey.secretKey.error": {
+    "defaultMessage": "访问密钥、密钥和区域不应为空"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.certificate.add.success": {
+    "defaultMessage": "已成功添加证书"
+  },
+  "ServiceCatalog.Listing.Overview.created.time": {
+    "defaultMessage": "创建时间"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.no.clientId.error": {
+    "defaultMessage": "客户端ID不应为空"
+  },
+  "Apis.Details.AccessControl.roles.help": {
+    "defaultMessage": "输入有效角色并按Enter键"
+  },
+  "Apis.Listing.SampleAPI.continue.on.error": {
+    "defaultMessage": "持续"
+  },
+  "Apis.Details.Subscriptions.Subscriber.no.claims": {
+    "defaultMessage": "没有可用的订户索赔数据"
+  },
+  "Apis.Create.Default.APICreateDefault.api.heading": {
+    "defaultMessage": "创建API"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.awslambda.endpoint.tooltip": {
+    "defaultMessage": "您可以而且应该使用IAM角色来管理在EC2实例上运行的应用程序的临时凭据"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListPayloadProps.delete": {
+    "defaultMessage": "删除"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.plain.old.xml": {
+    "defaultMessage": "普通旧XML（POX）"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.rest.api.scratch.content": {
+    "defaultMessage": "设计并原型化一个新的REST API"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.streaming.sse.title": {
+    "defaultMessage": "SSE API"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.btn.no": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Configuration.components.APISecurity.TranportLevel.certificate.delete.success": {
+    "defaultMessage": "证书删除成功"
+  },
+  "Apis.Details.Monetization.Index.monetization": {
+    "defaultMessage": "货币化"
+  },
+  "Apis.Details.LifeCycle.Policies.select.plan.api.product": {
+    "defaultMessage": "为API产品选择一个计划。"
+  },
+  "Apis.Details.Topics.components.operationComponents.EditPayloadProperty.description": {
+    "defaultMessage": "描述"
+  },
+  "Scopes.EditScope.roles.help": {
+    "defaultMessage": "输入有效角色，然后按“Enter”。"
+  },
+  "Apis.Details.ApiConsole.deployments.no": {
+    "defaultMessage": "{artifactType}尚未部署！请在尝试之前部署{artifactType}"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.select.policy": {
+    "defaultMessage": "选择中介策略"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListParameter.yes": {
+    "defaultMessage": "对"
+  },
+  "Scopes.Delete.Delete.scope.listing.delete.confirm": {
+    "defaultMessage": "确认删除"
+  },
+  "Apis.Listing.components.ImageGenerator.DocThumb.sourceType": {
+    "defaultMessage": "源类型："
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.LifecyclePending.delete.task": {
+    "defaultMessage": "删除任务"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.documents.swagger.editor.update.content": {
+    "defaultMessage": "更新内容"
+  },
+  "Apis.Details.Documents.Delete.document.listing.label.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Properties.Properties.editable.update": {
+    "defaultMessage": "使现代化"
+  },
+  "ServiceCatalog.Listing.components.ServiceCard.type": {
+    "defaultMessage": "类型"
+  },
+  "Apis.Create.WSDL.Steps.ProvideWSDL.implementation.type": {
+    "defaultMessage": "实施类型"
+  },
+  "Error.while.validating.the.imported.graphQLSchema": {
+    "defaultMessage": "验证导入的架构时出错"
+  },
+  "Apis.Details.Topics.components.operationComponents.OperationGovernance.operation.no.sharedpi.scope.available": {
+    "defaultMessage": "没有可用的共享作用域"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.save.btn": {
+    "defaultMessage": "保存"
+  },
+  "Apis.Details.APIDefinition.AuditApi.securityCriticality": {
+    "defaultMessage": "{securityCriticalityText}{securityCriticality}"
+  },
+  "Apis.Details.Configuration.RuntimeConfiguration.topic.header": {
+    "defaultMessage": "运行时配置"
+  },
+  "Apis.Details.NewOverview.MetaData.context:": {
+    "defaultMessage": "上下文："
+  },
+  "Apis.Details.Documents.CreateEditForm.exceeds.document.name.length.helper.text": {
+    "defaultMessage": "文档名称超过了60个字符的最大长度"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.rate.limiting.API.level": {
+    "defaultMessage": "API级别"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.representational.state.transfer": {
+    "defaultMessage": "代表性状态转移（REST）"
+  },
+  "Base.Errors.ResourceNotFound.api.product.list": {
+    "defaultMessage": "API产品清单"
+  },
+  "Apis.Details.Resources.components.operationComponents.AddParameter.parameter.name.already.exists": {
+    "defaultMessage": "参数名称已存在"
+  },
+  "Scopes.EditScope.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.cancel.button": {
+    "defaultMessage": "关闭"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.clientSecret.message": {
+    "defaultMessage": "输入客户端密码"
+  },
+  "Apis.Details.Endpoints.LoadbalanceFailoverConfig.failover.heading": {
+    "defaultMessage": "故障转移终结点"
+  },
+  "Scopes.Listing.Listing.scopes.text.editor.edit": {
+    "defaultMessage": "编辑"
+  },
+  "Apis.Details.APIDefinition.AuditApi.SecurityNumOfIssues": {
+    "defaultMessage": "{securityNumOfIssuesText}{securityNumOfIssues}"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.certificates.sub.heading": {
+    "defaultMessage": "证书"
+  },
+  "Apis.Details.Endpoints.GenericEndpoint.no.ep.error": {
+    "defaultMessage": "端点URL不应为空"
+  },
+  "Apis.Details.Properties.Properties.add.new.property": {
+    "defaultMessage": "添加新属性"
+  },
+  "Apis.Details.Security.SecurityOverview.manage.threat.protection.policies": {
+    "defaultMessage": "管理威胁保护策略"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.subscriptions.error": {
+    "defaultMessage": "检索订阅时出错"
+  },
+  "Apis.Details.Configuration.components.ResponseCaching.tooltip": {
+    "defaultMessage": "如果启用，将在网关级别缓存API响应，以缩短响应时间并最小化后端负载"
+  },
+  "Apis.Details.Documents.Create.heading": {
+    "defaultMessage": "文件"
+  },
+  "Apis.Details.Properties.Properties.editable.visible.in.store": {
+    "defaultMessage": "在devportal中可见"
+  },
+  "Apis.Details.Security.SecurityOverview.add.threat.protection.policy": {
+    "defaultMessage": "添加新的威胁保护策略"
+  },
+  "ServiceCatalog.Listing.Onboarding.learn.heading.sub": {
+    "defaultMessage": "集成服务"
+  },
+  "ServiceCatalog.Listing.Usages.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Scopes.CreateScope.scope.added.successfully": {
+    "defaultMessage": "已成功添加作用域"
+  },
+  "Apis.Details.ProductResources.ProductResourcesEdit.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Operations.Operation.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.Security.tooltip": {
+    "defaultMessage": "这将启用/禁用运行时配置页面中定义的应用程序级安全性。"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.tokenUrl.message": {
+    "defaultMessage": "输入令牌URL"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.rate.limiting.helperText.section5": {
+    "defaultMessage": "每个操作的速率限制"
+  },
+  "Apis.Details.Configuration.Configuration.prototype": {
+    "defaultMessage": "作为原型部署"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.rate.limiting.helperText.section3": {
+    "defaultMessage": "速率限制为"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.rate.limiting.helperText.section4": {
+    "defaultMessage": "启用"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.external-stores": {
+    "defaultMessage": "外部开发人员门户"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.rate.limiting.helperText.section1": {
+    "defaultMessage": "使用"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.rate.limiting.helperText.section2": {
+    "defaultMessage": "操作级别"
+  },
+  "Apis.Details.Monetization.Index.there.are.no .monetization.properties.configured": {
+    "defaultMessage": "没有配置货币化属性"
+  },
+  "Apis.Details.Documents.Delete.document.listing.delete.confirm.body": {
+    "defaultMessage": "所选文档将从API中删除。您将无法撤消此操作。"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.connect.timeout": {
+    "defaultMessage": "连接超时"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.sandbox.endpoint": {
+    "defaultMessage": "沙盒端点"
+  },
+  "Apis.Details.Scopes.CreateScope.short.description.name": {
+    "defaultMessage": "输入范围名称（例如：：creator）"
+  },
+  "ServiceCatalog.Listing.Overview.service.url": {
+    "defaultMessage": "服务URL"
+  },
+  "Apis.Details.ProductResources.ProductResourcesWorkspace.\n                                        toolbar.add.selected": {
+    "defaultMessage": "添加所选内容"
+  },
+  "Apis.Details.Documents.View.heading": {
+    "defaultMessage": "文件"
+  },
+  "Apis.Details.MediationPolicies.Mediation": {
+    "defaultMessage": "消息中介"
+  },
+  "Apis.Details.Resources.components.Operation.delete.operation": {
+    "defaultMessage": "删除操作"
+  },
+  "Apis.Details.components.APIDetailsTopMenu.last.updated.time": {
+    "defaultMessage": "上次更新时间："
+  },
+  "Apis.Details.APIDefinition.AuditApi.SecurityScore": {
+    "defaultMessage": "{securityScoreText}{securityScore}/30"
+  },
+  "Apis.Details.Operations.Operation.operation.scope.select.shared": {
+    "defaultMessage": "共享作用域"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.create.dynamic.endpoint": {
+    "defaultMessage": "动态端点"
+  },
+  "Apis.Details.Documents.Edit.documents.text.editor.edit": {
+    "defaultMessage": "编辑元数据"
+  },
+  "Apis.Details.Configuration.components.CORSConfiguration.allow.\n                                                    methods": {
+    "defaultMessage": "访问控制允许方法"
+  },
+  "Apis.Details.Configuration.components.Endpoints.sandbox": {
+    "defaultMessage": "沙箱"
+  },
+  "Apis.Details.Documents.MarkdownEditor.cancel.button": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Resources.components.Operation.undo.delete": {
+    "defaultMessage": "撤消删除"
+  },
+  "ServiceCatalog.Listing.Onboarding.learn.heading": {
+    "defaultMessage": "学会写你的第一个"
+  },
+  "Apis.Details.NewVersion.NewVersion.new.version": {
+    "defaultMessage": "新版本"
+  },
+  "Scopes.Usage.UsageView.resource.usage": {
+    "defaultMessage": "资源列表"
+  },
+  "Apis.Details.APIDefinition.AuditApi.DataValidationScore": {
+    "defaultMessage": "{dataScoreText}{dataScore}/70"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.none": {
+    "defaultMessage": "没有"
+  },
+  "ServiceCatalog.Listing.Onboarding.sample.heading": {
+    "defaultMessage": "添加示例"
+  },
+  "Apis.Details.APIDefinition.AuditApi.ReferenceSection": {
+    "defaultMessage": "访问此{链接}查看此问题的详细描述、可能的漏洞利用和修复。",
+    "description": "有关如何解决问题的详细信息，请访问链接"
+  },
+  "Apis.Details.Documents.Edit.documents.text.editor.edit.content": {
+    "defaultMessage": "编辑"
+  },
+  "Apis.Details.NewOverview.MetaData.transport.tooltip": {
+    "defaultMessage": "HTTP的安全性低于HTTPS，使您的API容易受到安全威胁。"
+  },
+  "save": {
+    "defaultMessage": "保存"
+  },
+  "error.list.401": {
+    "defaultMessage": "401：需要授权。"
+  },
+  "error.list.403": {
+    "defaultMessage": "403：禁止。"
+  },
+  "Apis.Details.NewVersion.NewVersion.service.version": {
+    "defaultMessage": "服务版本"
+  },
+  "error.list.404": {
+    "defaultMessage": "404：找不到该页。"
+  },
+  "Apis.Details.LifeCycle.LifeCycleHistory.time": {
+    "defaultMessage": "时间"
+  },
+  "Apis.Listing.SampleAPI.popup.deploy.complete": {
+    "defaultMessage": "API部署成功！"
+  },
+  "Apis.Details.Scopes.CreateScope.saving": {
+    "defaultMessage": "节省物"
+  },
+  "Apis.Details.Properties.Properties.editable.row.edit.mode.property.value": {
+    "defaultMessage": "属性值"
+  },
+  "Apis.Details.Documents.Delete.document.listing.delete": {
+    "defaultMessage": "对删去"
+  },
+  "Apis.Create.OpenAPI.Steps.ProvideOpenAPI.Input.type": {
+    "defaultMessage": "输入类型"
+  },
+  "Apis.Details.Configuration.components.AccessControl.tooltip.all.desc": {
+    "defaultMessage": "API可供所有发布者和创建者查看和修改。"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListParameter.edit": {
+    "defaultMessage": "编辑"
+  },
+  "Apis.Details.Endpoints.LoadbalanceFailoverConfig.sandbox.loadbalance.endpoint": {
+    "defaultMessage": "沙盒负载平衡端点"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.import.definition.import": {
+    "defaultMessage": "进口"
+  },
+  "Apis.Listing.components.TopMenu.create.api": {
+    "defaultMessage": "创建API"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListParameter.actions": {
+    "defaultMessage": "行动"
+  },
+  "Scopes.Listing.Listing.heading.scope.add_new": {
+    "defaultMessage": "添加新范围"
+  },
+  "Scopes.Create.Scope.description.length.exceeded": {
+    "defaultMessage": "超过512个字符的最大长度限制"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.certificate.delete.error": {
+    "defaultMessage": "删除证书时出错"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.required": {
+    "defaultMessage": "要求的"
+  },
+  "Apis.Create.Components.DefaultAPIForm.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.endpoint": {
+    "defaultMessage": "端点"
+  },
+  "Apis.Details.Environments.Environments.revision.restore.confirm.title": {
+    "defaultMessage": "确认还原"
+  },
+  "ServiceCatalog.Listing.Overview.parent.breadcrumb": {
+    "defaultMessage": "服务目录"
+  },
+  "Apis.Details.Configuration.components.APISecurity.allOptional": {
+    "defaultMessage": "请至少选择一个API安全级别作为“必需”！"
+  },
+  "Apis.Details.Endpoints.Endpoints.missing.security.username.error": {
+    "defaultMessage": "端点安全用户名/密码不应为空"
+  },
+  "Apis.Details.NewOverview.MetaData.access.control.all.tooltip": {
+    "defaultMessage": "全部：API可供所有发布者和创建者查看和修改。"
+  },
+  "Apis.Create.OpenAPI.Steps.ProvideOpenAPI.Input.file.upload": {
+    "defaultMessage": "浏览要上载的文件"
+  },
+  "Apis.Details.Configuration.components.MaxBackendTps.tooltip": {
+    "defaultMessage": "限制允许API管理器对后端进行的调用总数"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.data.type": {
+    "defaultMessage": "数据类型"
+  },
+  "Apis.Details.NewOverview.BusinessInformation.technical.owner.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.Scopes.CreateScope.roles.help": {
+    "defaultMessage": "输入有效角色，然后按“Enter”。"
+  },
+  "Apis.Details.Environments.Environments.revision.description.deploy": {
+    "defaultMessage": "新版本的简要说明"
+  },
+  "Apis.Create.APIProduct.APIProductCreateWrapper.heading": {
+    "defaultMessage": "创建API产品"
+  },
+  "Apis.Details.Monetization.BusinessPlans.not.monetized": {
+    "defaultMessage": "未货币化"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.graphQLDefinition.updated.successfully": {
+    "defaultMessage": "架构定义更新成功"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.external.stores.not.found.title": {
+    "defaultMessage": "找不到API的外部Developert门户：{apiUUID}"
+  },
+  "Scopes.Listing.Listing.heading.scope.heading": {
+    "defaultMessage": "范围"
+  },
+  "Apis.Details.Environments.Environments\n                                                                .deploy.button": {
+    "defaultMessage": "部署"
+  },
+  "ServiceCatalog.Listing.Onboarding.add.sample.success": {
+    "defaultMessage": "已成功添加示例服务！"
+  },
+  "Apis.Details.APIDefinition.AuditApi.tooltip.medium": {
+    "defaultMessage": "3、中等"
+  },
+  "Apis.Details.NewOverview.MetaData.type:": {
+    "defaultMessage": "类型："
+  },
+  "Apis.Details.Operations.Operation.operation.scope.select.local": {
+    "defaultMessage": "API范围"
+  },
+  "Apis.Details.Configuration.Components.MaxBackendTps.maximum.backend.throughput": {
+    "defaultMessage": "后端吞吐量"
+  },
+  "Apis.Details.LifeCycle.LifeCycleHistory.lifecycle.state.history": {
+    "defaultMessage": "LC已从{previous}更改为{post}"
+  },
+  "Apis.Listing.SampleAPI.popup.publish.inprogress": {
+    "defaultMessage": "正在将示例API发布到开发人员门户。。。"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.max.duration.ms": {
+    "defaultMessage": "最大持续时间（ms）"
+  },
+  "ServiceCatalog.Listing.Listing.heading.displaying.services": {
+    "defaultMessage": "服务"
+  },
+  "Apis.Details.Endpoints.LoadbalanceFailoverConfig.endpoint.type": {
+    "defaultMessage": "端点类型"
+  },
+  "Base.Errors.ResourceNotfound.default_body": {
+    "defaultMessage": "您正在查找的页面不可用"
+  },
+  "Apis.Details.Configuration.components.KeyManager.allow.all": {
+    "defaultMessage": "允许全部"
+  },
+  "Apis.Listing.SampleAPIProduct.description": {
+    "defaultMessage": "将多个API资源合并到单个API中"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.loadbalance.config.save.button": {
+    "defaultMessage": "保存"
+  },
+  "Apis.Details.Environments\n                                                                                .deploy.vhost": {
+    "defaultMessage": "VHost公司"
+  },
+  "Apis.Details.Configuration.components.CORSConfiguration.tooltip": {
+    "defaultMessage": "如果启用，将启用API的CORS配置。"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurityConfig.cancel.button": {
+    "defaultMessage": "关闭"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.none": {
+    "defaultMessage": "没有"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.import.wsdl": {
+    "defaultMessage": "导入WSDL"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditPayloadProperty.done": {
+    "defaultMessage": "多恩"
+  },
+  "Apis.Details.NewOverview.Operations.operations": {
+    "defaultMessage": "活动"
+  },
+  "Apis.Details.ProductResources.ProductResourcesWorkspace.find.and.select": {
+    "defaultMessage": "查找并选择API产品的资源"
+  },
+  "Apis.Create.asyncAPI.Components.SelectPolicies.business.plans": {
+    "defaultMessage": "协议"
+  },
+  "Apis.Details.Topics.components.operationComponents.ListPayloadProps.description": {
+    "defaultMessage": "描述"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.rest.api.import.open.content": {
+    "defaultMessage": "导入OAS 3或Swagger 2.0定义"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.select.btn": {
+    "defaultMessage": "选择"
+  },
+  "ServiceCatalog.Listing.Overview.mutual.ssl.disabled": {
+    "defaultMessage": "禁用"
+  },
+  "Apis.Listing.ApiTableView.version": {
+    "defaultMessage": "版本"
+  },
+  "Apis.Details.Documents.GoToEdit.back.to.listing": {
+    "defaultMessage": "返回列表"
+  },
+  "Apis.Details.Overview.CustomizedStepper.view.devportal": {
+    "defaultMessage": "在devportal中查看"
+  },
+  "Apis.Details.Documents.Listing.documents.open": {
+    "defaultMessage": "打开"
+  },
+  "Apis.Details.Operations.Operation.operation.scope.helperText": {
+    "defaultMessage": "选择作用域以控制此操作的权限"
+  },
+  "Apis.Details.Endpoints.LoadBalanceConfig.class.name.for.algorithm": {
+    "defaultMessage": "算法的类名"
+  },
+  "Apis.Details.Environments.Environments.Deployments": {
+    "defaultMessage": "修订版"
+  },
+  "Apis.Details.Documents.CreateEditForm.source.url": {
+    "defaultMessage": "统一资源定位地址"
+  },
+  "Apis.Details.index.business.info": {
+    "defaultMessage": "业务信息"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.endpoint.helpertext": {
+    "defaultMessage": "证书的终结点"
+  },
+  "Apis.Create.WSDL.ApiCreateWSDL.heading": {
+    "defaultMessage": "将SOAP服务公开为REST API"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.operation.scope.helperText": {
+    "defaultMessage": "选择作用域以控制此操作的权限"
+  },
+  "Apis.Details.components.APIDetailsTopMenu.view.in.portal": {
+    "defaultMessage": "在开发人员门户中查看"
+  },
+  "Apis.Details.Configuration.components.SchemaValidation.title": {
+    "defaultMessage": "小心"
+  },
+  "Apis.Details.NewOverview.Operations.ShowMore": {
+    "defaultMessage": "显示更多信息"
+  },
+  "Apis.Details.Configuration.Configuration.section.backend": {
+    "defaultMessage": "后端"
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.success.createStatus": {
+    "defaultMessage": "已发送生命周期状态更改请求"
+  },
+  "Apis.Details.Subscriptions.SubscriptionPoliciesManage.business.plans": {
+    "defaultMessage": "商业计划书"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.graphql.import.sdl.title": {
+    "defaultMessage": "导入GraphQL SDL"
+  },
+  "Apis.Details.APIDefinition.AuditApi.TotalNumOfErrors": {
+    "defaultMessage": "{totalNumOfErrorsText}{totalNumOfErrors}"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.create.soap.endpoint": {
+    "defaultMessage": "HTTP/SOAP端点"
+  },
+  "Apis.Details.Scopes.visibility.CreateScope.roles.help": {
+    "defaultMessage": "输入有效角色并按Enter键"
+  },
+  "Apis.Details.NewOverview.async.api.topics": {
+    "defaultMessage": "主题"
+  },
+  "Apis.Details.Configuration.Configuration.schema.validation": {
+    "defaultMessage": "架构验证"
+  },
+  "Apis.Details.NewOverview.MetaData.created.time": {
+    "defaultMessage": "创建时间"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.upload.mediation.message": {
+    "defaultMessage": "请将调解序列文件上载到设置端点的消息调解策略。"
+  },
+  "Apis.Details.NewOverview.MetaData.workflow.status": {
+    "defaultMessage": "工作流状态"
+  },
+  "ServiceCatalog.Listing.Overview.close.btn": {
+    "defaultMessage": "关闭"
+  },
+  "Base.Header.navbar.GlobalNavBar.scopes": {
+    "defaultMessage": "范围"
+  },
+  "Apis.Listing.ApiTableView.provider": {
+    "defaultMessage": "提供者"
+  },
+  "Apis.Details.Configurations.api.categories.empty": {
+    "defaultMessage": "未定义API类别。"
+  },
+  "Apis.Details.Properties.Properties.update.not.allowed": {
+    "defaultMessage": "*由于权限不足，您无权更新API的属性"
+  },
+  "Apis.Details.Documents.TextEditor.update.content.button": {
+    "defaultMessage": "更新内容"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.docVisibility.dropdown.public": {
+    "defaultMessage": "与API可见性相同"
+  },
+  "Apis.Details.Resources.components.AddOperation.operation.target.or.verb.cannot.be.empty.warning": {
+    "defaultMessage": "操作目标或操作谓词不能为空"
+  },
+  "Apis.Details.Comments.Comment.something.went.wrong": {
+    "defaultMessage": "删除评论时出错"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.uploadCertificate": {
+    "defaultMessage": "上载证书"
+  },
+  "Apis.Details.Endpoints.LoadbalanceFailoverConfig.loadbalance.heading": {
+    "defaultMessage": "负载平衡端点"
+  },
+  "Apis.Details.Configuration.components.storeVisibility.tooltip.restrict": {
+    "defaultMessage": "受角色限制："
+  },
+  "Apis.Details.Documents.CreateEditForm.source.url.url": {
+    "defaultMessage": "统一资源定位地址"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.cancel.button": {
+    "defaultMessage": "关闭"
+  },
+  "Apis.Details.QyeryAnalysis.UpdateComplexity.save": {
+    "defaultMessage": "设置"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.graphql.import.sdl.content": {
+    "defaultMessage": "使用现有定义"
+  },
+  "Apis.Details.Endpoints.LoadBalanceConfig.session.management": {
+    "defaultMessage": "会话管理"
+  },
+  "Apis.Details.Configuration.Configuration.publisher": {
+    "defaultMessage": "发布"
+  },
+  "Scopes.Usage.Usage.usage": {
+    "defaultMessage": "的用法"
+  },
+  "Apis.Listing.ApiTableView.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.operation.scope.label.default": {
+    "defaultMessage": "经营范围："
+  },
+  "Apis.Details.index.subscriptions": {
+    "defaultMessage": "订阅"
+  },
+  "Apis.Details.Documents.Listing.APIProduct.add.new.msg.content": {
+    "defaultMessage": "您可以向API添加不同类型的文档。适当的文档有助于API发布者更好地营销其API并维持竞争。"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.token.url.input": {
+    "defaultMessage": "令牌URL"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.technical.owner.name": {
+    "defaultMessage": "技术负责人"
+  },
+  "Apis.Details.Properties.Properties.add.new.property.message.content": {
+    "defaultMessage": "在此处向API添加特定的自定义属性。"
+  },
+  "Apis.Details.Topics.components.AddOperation.operation.topic.or.type.cannot.be.empty.warning": {
+    "defaultMessage": "主题名称或主题类型不能为空"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.business.owner.email": {
+    "defaultMessage": "企业主电子邮件"
+  },
+  "Apis.Details.Resources.components.AddParameter.clear.inputs.tooltip": {
+    "defaultMessage": "清除输入"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.certificate.alias.exist": {
+    "defaultMessage": "添加证书失败。证书别名存在。"
+  },
+  "error.list.403.description": {
+    "defaultMessage": "您无权访问具有此类请求的任何内容。"
+  },
+  "Apis.Details.Configuration.Configuration.update.not.allowed": {
+    "defaultMessage": "*由于权限不足，您无权更新API的特定字段"
+  },
+  "Apis.Details.Scopes.Scopes.table.header.description": {
+    "defaultMessage": "描述"
+  },
+  "Apis.Details.Environments.Environments.gateway\n                                                    .deployed.revision": {
+    "defaultMessage": "已部署修订版"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.use.done.button.to.persist.changes": {
+    "defaultMessage": "使用页面中的“完成”按钮保存更改"
+  },
+  "Apis.Create.OpenAPI.ApiCreateOpenAPI.wizard.two": {
+    "defaultMessage": "创建API"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.subscription.blocked.prod.only": {
+    "defaultMessage": "订阅被阻止，仅用于生产。"
+  },
+  "Scopes.EditScope.Roles.Invalid": {
+    "defaultMessage": "角色无效"
+  },
+  "Apis.Details.APIDefinition.AuditApi.DataValidationSummary": {
+    "defaultMessage": "{数据验证摘要}"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.connect.cancel": {
+    "defaultMessage": "连接取消"
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.LifecyclePending.dialog,delete": {
+    "defaultMessage": "删除"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.type": {
+    "defaultMessage": "类型"
+  },
+  "Apis.Create.Components.NewTopic.topic.name": {
+    "defaultMessage": "主题名称"
+  },
+  "Apis.Details.APIDefinition.ImportDefinition.error.updating.WSDL": {
+    "defaultMessage": "更新WSDL时出错"
+  },
+  "Apis.Details.Security.SecurityOverview.policy.remove.success": {
+    "defaultMessage": "策略已成功删除。"
+  },
+  "ServiceCatalog.Listing.Overview.service.type.async.tooltip": {
+    "defaultMessage": "异步API服务"
+  },
+  "Apis.Details.Scopes.EditScope.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Configuration.components.storeVisibility.roles": {
+    "defaultMessage": "角色"
+  },
+  "Apis.Details.Resources.components.operationComponents.AWSLambdaSettings.Title": {
+    "defaultMessage": "AWS Lambda设置"
+  },
+  "Apis.Create.WSDL.Steps.ProvideWSDL.SOAPtoREST.label": {
+    "defaultMessage": "生成REST API"
+  },
+  "Apis.Details.Resources.components.operationComponents.content.type": {
+    "defaultMessage": "内容类型"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.create.prototype.endpoint": {
+    "defaultMessage": "原型端点"
+  },
+  "Apis.Details.Configuration.Components.APISecurity.Components.\n                                    ApplicationLevel.http": {
+    "defaultMessage": "应用程序级安全"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.import.definition.oas": {
+    "defaultMessage": "导入OpenAPI定义"
+  },
+  "Apis.Details.Endpoints.GenericEndpoint.service.url.input": {
+    "defaultMessage": "服务URL"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.business.owner.email.helper.text": {
+    "defaultMessage": "提供企业主的电子邮件"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.click.or.drop.to.upload.file": {
+    "defaultMessage": "单击或拖动要上载的中介文件。"
+  },
+  "Apis.Details.NewOverview.MetaData.access.control.tooltip": {
+    "defaultMessage": "受角色限制：API只能由具有指定角色的特定发布者和创建者查看和修改"
+  },
+  "Apis.Details.Documents.Create.markdown.editor.success": {
+    "defaultMessage": "已成功添加。"
+  },
+  "Apis.Details.LifeCycle.LifeCycleHistory.user": {
+    "defaultMessage": "使用者"
+  },
+  "Scopes.Usage.Usage.api.version": {
+    "defaultMessage": "版本："
+  },
+  "Apis.Details.LifeCycle.LifeCycleHistory.action": {
+    "defaultMessage": "行动"
+  },
+  "Base.Header.headersearch.HeaderSearch.tooltip.option12": {
+    "defaultMessage": "Api类别[语法-Api类别：xxxx]"
+  },
+  "Base.Header.headersearch.HeaderSearch.tooltip.option11": {
+    "defaultMessage": "标记[语法-标记：xxxx]"
+  },
+  "Base.Header.headersearch.HeaderSearch.tooltip.option10": {
+    "defaultMessage": "属性[语法-property\\u名称：property\\u值]"
+  },
+  "upload.image.size.info": {
+    "defaultMessage": "最大文件大小限制为1MB"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.add.new.parameter": {
+    "defaultMessage": "添加新参数"
+  },
+  "Apis.Listing.SampleAPIProduct.creator.error": {
+    "defaultMessage": "API尚未部署！请在试用之前部署API"
+  },
+  "Apis.Details.Subscriptions.Listing.column.header.application": {
+    "defaultMessage": "应用"
+  },
+  "Apis.Details.Documents.CreateEditForm.source.file.name.error.invalid": {
+    "defaultMessage": "文档源文件名不能包含空格或特殊字符"
+  },
+  "Apis.Details.Scopes.Scopes.scopes.enable.fine.gained.access.control": {
+    "defaultMessage": "作用域支持基于用户角色对API资源进行细粒度访问控制。"
+  },
+  "Apis.Details.APIDefinition.AuditApi.tooltip.info": {
+    "defaultMessage": "1、信息"
+  },
+  "Apis.Details.Scopes.CreateScope.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Scopes.Delete.Delete.something.went.wrong.while.updating.the.api": {
+    "defaultMessage": "删除作用域时出错"
+  },
+  "Apis.Details.Resources.components.operationComponents.AddParameter.enter.content.type": {
+    "defaultMessage": "输入内容类型"
+  },
+  "Apis.Details.Scopes.CreateScope.scope.updated.successfully": {
+    "defaultMessage": "已成功更新范围"
+  },
+  "Apis.Details.Endpoints.Endpoints.missing.security.oauth.client.error": {
+    "defaultMessage": "端点安全令牌URL/API密钥/API密钥不应为空"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditPayloadProperty.close": {
+    "defaultMessage": "关闭"
+  },
+  "Apis.Details.Subscriptions.SubscriptionAvailability.specific.tenants": {
+    "defaultMessage": "可供特定租户使用"
+  },
+  "Apis.Details.Documents.Listing.column.header.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Details.Configuration.Configuration.section.initial.request": {
+    "defaultMessage": "初始请求"
+  },
+  "Apis.Listing.components.TopMenu.search.results.singular": {
+    "defaultMessage": "搜索结果"
+  },
+  "Apis.Details.Documents.TextEditor.cancel.button": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Resources.components.Operation.cannot.delete.when.used.in.api.products": {
+    "defaultMessage": "在API产品中使用时无法删除操作"
+  },
+  "Apis.Details.Configuration.Configuration.Design.topic.header": {
+    "defaultMessage": "设计配置"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.done": {
+    "defaultMessage": "多恩"
+  },
+  "Apis.Details.Documents.View.meta.catogery": {
+    "defaultMessage": "分类为"
+  },
+  "Apis.Details.APIDefinition.DefinitionOutdated.btn.hide.diff": {
+    "defaultMessage": "隐藏差异"
+  },
+  "Apis.Details.Endpoints.LoadBalanceConfig.session.timeout": {
+    "defaultMessage": "会话超时（毫秒）"
+  },
+  "Apis.Details.NewOverview.Endpoints.sandbox.endpoint": {
+    "defaultMessage": "沙盒端点"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.response.processing.failure": {
+    "defaultMessage": "响应处理失败"
+  },
+  "Apis.Details.NewOverview.Policies.business.plans": {
+    "defaultMessage": "业务计划："
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.rate.limiting.button.text": {
+    "defaultMessage": "更改速率限制级别"
+  },
+  "Apis.Details.NewOverview.MetaData.visibility.store.all.tooltip": {
+    "defaultMessage": "公共：API对每个人都是可访问的，并且可以在多个开发人员门户中发布—中央开发人员门户和/或非WSO2开发人员门户。"
+  },
+  "Apis.Details.APIDefinition.AuditApi.ScoreFooter": {
+    "defaultMessage": "共100个"
+  },
+  "Apis.Details.Properties.Properties.api.product.properties": {
+    "defaultMessage": "API产品属性"
+  },
+  "Apis.Details.Subscriptions.Listing.column.header.subscriber": {
+    "defaultMessage": "订阅人"
+  },
+  "Apis.Details.Configuration.components.schema.validation.tooltip": {
+    "defaultMessage": "根据OpenAPI定义启用请求和响应验证"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.description": {
+    "defaultMessage": "描述"
+  },
+  "Apis.Details.Configuration.RuntimeConfigurationWebSocket.section.backend.websocket": {
+    "defaultMessage": "后端Websocket"
+  },
+  "ServiceCatalog.Listing.Overview.retrieve.service.def.error": {
+    "defaultMessage": "检索服务定义时出错。"
+  },
+  "Apis.Details.Subscriptions.SubscriptionAvailability.subscription.availability": {
+    "defaultMessage": "订阅可用性"
+  },
+  "Apis.Details.Subscriptions.SubscriptionPoliciesManage.APIProduct.sub.heading": {
+    "defaultMessage": "将业务计划附加到API"
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.LifecyclePending.dialog.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.production.endpoint.production.label": {
+    "defaultMessage": "生产终结点"
+  },
+  "ServiceCatalog.ServicesTableView.ServicesTableView.service.url": {
+    "defaultMessage": "服务URL"
+  },
+  "Apis.Create.Default.APICreateDefault.apiProduct.heading": {
+    "defaultMessage": "创建API产品"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.not.allowed": {
+    "defaultMessage": "*由于权限不足，您无权查看证书"
+  },
+  "ServiceCatalog.Listing.Usages.api.version": {
+    "defaultMessage": "版本"
+  },
+  "Apis.Details.Configuration.components.Tags.helper": {
+    "defaultMessage": "键入标记名称后按“Enter”添加新标记"
+  },
+  "Apis.Details.Documents.GoToEdit.description.content": {
+    "defaultMessage": "您可以向文档中添加内容或返回文档列表页面。"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.sender.io.error.receiving": {
+    "defaultMessage": "接收发送方IO错误"
+  },
+  "Apis.Details.Properties.Properties.add.new.property.value": {
+    "defaultMessage": "属性值"
+  },
+  "Apis.Details.Endpoints.Prototype.InlineEndpoints.script": {
+    "defaultMessage": "剧本"
+  },
+  "Apis.Details.components.CreateNewVersionButton.create.new.version": {
+    "defaultMessage": "创建新版本"
+  },
+  "Apis.Details.local.Scopes.heading.scope.heading": {
+    "defaultMessage": "本地作用域"
+  },
+  "ServiceCatalog.Listing.Listing.error.delete": {
+    "defaultMessage": "删除服务时出错"
+  },
+  "Apis.Details.Endpoints.LoadbalanceFailoverConfig.no.endpoints.message": {
+    "defaultMessage": "添加要配置的生产/沙盒终结点。"
+  },
+  "Apis.Details.Documents.Listing.documents.listing.title": {
+    "defaultMessage": "文件"
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.LifecyclePending.dialog.text.description": {
+    "defaultMessage": "生命周期任务将被删除"
+  },
+  "Apis.Details.Documents.View.meta.summary": {
+    "defaultMessage": "总结"
+  },
+  "Apis.Details.Documents.Edit.documents.text.editor.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.endpoint.timeout.state": {
+    "defaultMessage": "端点超时状态"
+  },
+  "ServiceCatalog.Listing.Onboarding.learn.link": {
+    "defaultMessage": "快速入门"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.business.info": {
+    "defaultMessage": "业务信息"
+  },
+  "Scopes.Create.ScopeCreate.Roles.Invalid": {
+    "defaultMessage": "角色无效"
+  },
+  "Applications.Details.Invoice.view.btn": {
+    "defaultMessage": "查看发票"
+  },
+  "Apis.Details.Documents.CreateEditForm.source.url.helper.text": {
+    "defaultMessage": "提供源的URL"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.create.type": {
+    "defaultMessage": "类型"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.create.type.other.document.category": {
+    "defaultMessage": "其他文档类型*"
+  },
+  "Apis.Details.LifeCycle.LifeCycle.history": {
+    "defaultMessage": "历史"
+  },
+  "Apis.Details.NewOverview.Endpoints.prototype.endpoint": {
+    "defaultMessage": "原型端点"
+  },
+  "UnexpectedError.logout": {
+    "defaultMessage": "注销"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.endpoint.type.change.confirmation.message": {
+    "defaultMessage": "当前终结点配置将丢失。"
+  },
+  "Apis.Details.Environments.Environments.select.rev.helper1": {
+    "defaultMessage": "请取消部署并删除修订，因为修订数已达到最大值{count}"
+  },
+  "Apis.Details.Operations.Operation.throttling.policy": {
+    "defaultMessage": "速率限制"
+  },
+  "Apis.Details.Documents.Listing.add.new.msg.button": {
+    "defaultMessage": "添加新文档"
+  },
+  "Apis.Details.Configuration.components.Subscription.signingAlgorithm": {
+    "defaultMessage": "签名算法"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.soap.api": {
+    "defaultMessage": "SOAP API"
+  },
+  "Apis.Details.ProductResources.ProductResourcesWorkspace.select.an.api": {
+    "defaultMessage": "选择API"
+  },
+  "Apis.Details.Scopes.CreateScope.description.about.the.scope": {
+    "defaultMessage": "关于范围的简短描述"
+  },
+  "Apis.Details.APIDefinition.AuditApi.OpenApiFormatRequirements": {
+    "defaultMessage": "OpenAPI格式要求"
+  },
+  "Apis.Details.Configuration.components.AccessControl.tooltip.restrict": {
+    "defaultMessage": "受角色限制："
+  },
+  "Apis.Details.Environments.Environments.visibility.in.devportal": {
+    "defaultMessage": "网关URL可见性"
+  },
+  "ServiceCatalog.Listing.Overview.download.service": {
+    "defaultMessage": "下载"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.technical.owner.email": {
+    "defaultMessage": "技术所有者电子邮件"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.deleteCertificate": {
+    "defaultMessage": "删除证书"
+  },
+  "Apis.Details.Properties.Properties.\n                                                                show.add.property.property.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Details.Subscriptions.Listing.column.header.throttling.tier": {
+    "defaultMessage": "层"
+  },
+  "Apis.Details.Scopes.EditScopes.roles.help": {
+    "defaultMessage": "输入有效角色，然后按“Enter”。"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListPayloadProperties.edit": {
+    "defaultMessage": "编辑"
+  },
+  "Apis.Details.Comments.CommentAdd.write.comment.label": {
+    "defaultMessage": "写评论"
+  },
+  "Apis.Details.QueryAnalysis.UpdateComplexity.fieldcomplexitysum": {
+    "defaultMessage": "复杂性总和"
+  },
+  "the.icon.is.not.modified": {
+    "defaultMessage": "图标未修改"
+  },
+  "Apis.Details.Comments.no.comments": {
+    "defaultMessage": "尚未发表评论"
+  },
+  "ServiceCatalog.Listing.Usages.service.usage": {
+    "defaultMessage": "由{用法}API使用"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.import.definition.wsdl": {
+    "defaultMessage": "导入WSDL"
+  },
+  "Apis.Details.NewOverview.MetaData.visibility.store": {
+    "defaultMessage": "开发人员门户上的可见性"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListParameter.no": {
+    "defaultMessage": "NO"
+  },
+  "Apis.Details.LifeCycle.publish.content.info.deployments": {
+    "defaultMessage": "部署"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.create.awslambda.endpoint.description": {
+    "defaultMessage": "如果需要通过API网关调用AWS Lambda函数。"
+  },
+  "Apis.Details.LifeCycle.Policies.select.plan.api": {
+    "defaultMessage": "选择API的计划并启用API级别限制。"
+  },
+  "colon": {
+    "defaultMessage": ":"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.status": {
+    "defaultMessage": "状态"
+  },
+  "Apis.Details.APIDefinition.AuditApi.tooltip.critical": {
+    "defaultMessage": "5、关键"
+  },
+  "Apis.Details.Configuration.components.APILevelRateLimitingPolicies.configuration": {
+    "defaultMessage": "速率限制配置"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.no.clientSecret.error": {
+    "defaultMessage": "客户端机密不应为空"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListParameter.delete": {
+    "defaultMessage": "删除"
+  },
+  "Apis.Listing.SampleAPI.popup.create.complete": {
+    "defaultMessage": "API创建成功！"
+  },
+  "ServiceCatalog.Listing.Delete.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.APIDefinition.WSDL.error.loading.wsdl": {
+    "defaultMessage": "加载WSDL时出错"
+  },
+  "Apis.Details.Scopes.Scopes.update.not.allowed": {
+    "defaultMessage": "*由于权限不足，您无权更新API的作用域"
+  },
+  "Apis.Details.Security.SecurityOverview.policy": {
+    "defaultMessage": "政策"
+  },
+  "Apis.Details.ApiConsole.generate.test.key": {
+    "defaultMessage": "生成密钥"
+  },
+  "Apis.Details.Documents.Listing.loading": {
+    "defaultMessage": "加载。。。"
+  },
+  "Apis.Create.Default.APICreateDefault.error.errorMessage.publish": {
+    "defaultMessage": "发布API时出错"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.asyncAPI.definition": {
+    "defaultMessage": "AsyncAPI定义"
+  },
+  "Apis.Details.Configuration.Configuration.response.caching": {
+    "defaultMessage": "响应缓存"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.summary": {
+    "defaultMessage": "摘要*"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.sender.io.error.sending": {
+    "defaultMessage": "发送发件人IO错误"
+  },
+  "unblock": {
+    "defaultMessage": "解除阻止"
+  },
+  "Apis.Details.Security.SecurityOverview.policy.remove.failure": {
+    "defaultMessage": "未能删除策略。"
+  },
+  "Apis.Create.Default.APICreateDefault.webSocket.heading": {
+    "defaultMessage": "创建WebSocket API"
+  },
+  "Apis.Details.Documents.View.btn.download": {
+    "defaultMessage": "下载"
+  },
+  "Apis.Details.Documents.CreateEditForm.invalid.document.name.helper.text": {
+    "defaultMessage": "文档名称不能包含空格或特殊字符"
+  },
+  "Apis.Details.local.Scopes.heading.edit.heading": {
+    "defaultMessage": "本地作用域"
+  },
+  "Apis.Listing.components.TopMenu.create.an.api.product": {
+    "defaultMessage": "创建API产品"
+  },
+  "Apis.Listing.ApiThumb.version": {
+    "defaultMessage": "版本"
+  },
+  "Apis.Details.NewOverview.MetaData.metadata": {
+    "defaultMessage": "元数据"
+  },
+  "Apis.Details.Resources.Resources.edit.resources.button": {
+    "defaultMessage": "编辑资源"
+  },
+  "Apis.Details.Environments.Environments.create.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Configuration.components.storeVisibility.tooltip.restrict.desc": {
+    "defaultMessage": "API仅对您指定的租户开发人员门户中的特定用户角色可见。"
+  },
+  "block.all": {
+    "defaultMessage": "全部阻止"
+  },
+  "Apis.Details.APIDefinition.DefinitionOutdated.btn.reimport": {
+    "defaultMessage": "重新导入"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.operation.no.api.scope.available": {
+    "defaultMessage": "没有可用的API作用域"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.create.awslambda.endpoint": {
+    "defaultMessage": "AWS Lambda端点"
+  },
+  "Apis.Details.Documents.CreateEditForm.empty.document.name.helper.text": {
+    "defaultMessage": "文档名称不能为空"
+  },
+  "ServiceCatalog.Listing.Overview.definition.type": {
+    "defaultMessage": "架构类型"
+  },
+  "Apis.Details.Documents.MarkdownEditor.update.success.message": {
+    "defaultMessage": "已成功更新。"
+  },
+  "Apis.Details.components.APIDetailsTopMenu.read.only.label": {
+    "defaultMessage": "只读"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.streaming.design.new.ws.content": {
+    "defaultMessage": "创建Web套接字API"
+  },
+  "Apis.Details.Topics.components.operationComponents.OperationGovernance.Security.tooltip": {
+    "defaultMessage": "这将启用/禁用运行时配置页面中定义的应用程序级安全性。"
+  },
+  "Apis.Details.Configuration.components.KeyManager.more.than.one.error": {
+    "defaultMessage": "至少选择一个密钥管理器"
+  },
+  "Apis.Details.Environments.deploy.vhost": {
+    "defaultMessage": "VHost公司"
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.error.certs": {
+    "defaultMessage": "检索证书时出错"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.cancel.btn": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Listing.ApiThumb.by": {
+    "defaultMessage": "By"
+  },
+  "Apis.Details.Configuration.RuntimeConfiguration.backend.api.\n                                                    product.endpoint": {
+    "defaultMessage": "有关端点信息，请参考各自的API"
+  },
+  "Apis.Details.Documents.Delete.selected.document.listing.delete.confirm.body": {
+    "defaultMessage": "选定的文档将从API中删除。您将无法撤消此操作。"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.rest.d.sample.title": {
+    "defaultMessage": "部署示例API"
+  },
+  "Apis.Details.APIDefinition.AuditApi.tooltip.high": {
+    "defaultMessage": "4、高"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.content.info": {
+    "defaultMessage": "请保存文档。可以在下一步中编辑内容。"
+  },
+  "Apis.Listing.components.ImageGenerator.DocThumb.apiName": {
+    "defaultMessage": "API名称"
+  },
+  "Apis.Details.Configuration.components.APISecurity.TranportLevel.certificate.add.success": {
+    "defaultMessage": "已成功添加证书"
+  },
+  "Apis.Details.Environments.Environments.revision.restore.confirm.message": {
+    "defaultMessage": "是否确实要还原{修订版}（到当前API）？"
+  },
+  "Apis.Details.Properties.Properties.\n                                show.add.property.invalid.error": {
+    "defaultMessage": "无效的属性名称"
+  },
+  "Apis.Details.NewOverview.MetaData.access.control": {
+    "defaultMessage": "访问控制"
+  },
+  "Apis.Details.Security.SecurityOverview.policy.name": {
+    "defaultMessage": "策略名称"
+  },
+  "Apis.Details.Operations.Operation.operation.scope.label.notAvailable": {
+    "defaultMessage": "无可用范围"
+  },
+  "Apis.Details.Security.AddPolicy.add.policy.to.api": {
+    "defaultMessage": "将策略添加到API"
+  },
+  "Apis.Details.Operations.Operation.save": {
+    "defaultMessage": "保存"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EditableParameterRow.Parameter.Name": {
+    "defaultMessage": "参数名称"
+  },
+  "Apis.Details.Comments.CommentOptions.reply": {
+    "defaultMessage": "回复"
+  },
+  "Apis.Details.NewOverview.Resources.loading": {
+    "defaultMessage": "加载。。。"
+  },
+  "Apis.Details.Configuration.components.CORSConfiguration.allow.\n                                                    headers": {
+    "defaultMessage": "访问控制允许标头"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.close": {
+    "defaultMessage": "关闭"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.subTitle": {
+    "defaultMessage": "（安全、速率限制和范围）"
+  },
+  "Apis.Details.Resources.components.operationComponents.data.type": {
+    "defaultMessage": "数据类型"
+  },
+  "Apis.Create.GraphQL.Steps.ProvideGraphQL.Input.file.dropzone": {
+    "defaultMessage": "将文件拖放到此处{break}或{break}浏览文件{break}（{accept}）"
+  },
+  "Apis.Details.Documents.CreateEditForm.source.url.helper.text.error.invalid": {
+    "defaultMessage": "输入指向源的有效URL"
+  },
+  "Apis.Details.Properties.Properties.add": {
+    "defaultMessage": "添加"
+  },
+  "Apis.Create.Default.APICreateDefault.api.sub.heading": {
+    "defaultMessage": "通过提供名称、版本、上下文和后端端点（可选）创建API"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.soap.import.wsdl.title": {
+    "defaultMessage": "导入WSDL"
+  },
+  "Apis.Create.GraphQL.Steps.ProvideGraphQL.Input.type": {
+    "defaultMessage": "提供GraphQL文件"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.cancel.btn": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.clientId.message": {
+    "defaultMessage": "输入客户端ID"
+  },
+  "Apis.Details.TryOutConsole.token.label": {
+    "defaultMessage": "内部API密钥"
+  },
+  "ServiceCatalog.Listing.Overview.view.definition": {
+    "defaultMessage": "视图定义"
+  },
+  "Apis.Details.Resources.components.operationComponents.parameter.name.exists": {
+    "defaultMessage": "参数类型已存在"
+  },
+  "Apis.Details.Resources.components.operationComponents.required": {
+    "defaultMessage": "要求的"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.streaming.api": {
+    "defaultMessage": "流式API"
+  },
+  "UnexpectedError.title": {
+    "defaultMessage": "内部服务器错误"
+  },
+  "Apis.Details.Scopes.EditScope.short.description.about.the.scope": {
+    "defaultMessage": "关于范围的简短描述"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.add.new.parameter.info": {
+    "defaultMessage": "您可以添加以下端点所需的任何其他有效负载参数"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.retry.delay.ms": {
+    "defaultMessage": "重试延迟（毫秒）"
+  },
+  "Apis.Details.Environments.Environments.display.devportal": {
+    "defaultMessage": "在开发人员门户中显示网关访问URL。"
+  },
+  "Apis.Details.ProductResources.ProductResourcesWorkspace.selected": {
+    "defaultMessage": "API产品精选资源"
+  },
+  "Apis.Details.Operations.operation.operationName": {
+    "defaultMessage": "活动"
+  },
+  "Apis.Details.Configuration.components.CORSConfigurations.method.helper": {
+    "defaultMessage": "键入方法名称后按“Enter”添加新方法"
+  },
+  "Apis.Details.Overview.CustomizedStepper.Tier": {
+    "defaultMessage": "商业计划书"
+  },
+  "Apis.Details.Documents.View.meta.source": {
+    "defaultMessage": "源类型"
+  },
+  "Apis.Details.APIDefinition.WSDL.error.loading.wsdl.info": {
+    "defaultMessage": "加载WSDL时出错"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.thumbnail.validation.error": {
+    "defaultMessage": "无效文件或API信息未正确设置。"
+  },
+  "Apis.Details.Documents.Listing.column.header.source.type": {
+    "defaultMessage": "源类型"
+  },
+  "Apis.Details.Documents.GoToEdit.title": {
+    "defaultMessage": "文档创建成功"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.create.type.sample": {
+    "defaultMessage": "示例和SDK"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.import.definition": {
+    "defaultMessage": "导入定义"
+  },
+  "Apis.Details.Configuration.Configuration.section.response": {
+    "defaultMessage": "回答"
+  },
+  "Apis.Details.Comments.CommentAdd.btn.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.endpoint.security.configuration": {
+    "defaultMessage": "端点安全配置"
+  },
+  "Apis.Details.NewOverview.MetaData.type.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.APIDefinition.DefinitionOutdated.import.success": {
+    "defaultMessage": "成功重新导入API定义！"
+  },
+  "ServiceCatalog.Listing.components.ServiceCard.create.api": {
+    "defaultMessage": "创建API"
+  },
+  "Apis.Details.Properties.Properties.add.new.property.visibility": {
+    "defaultMessage": "可见度"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.action": {
+    "defaultMessage": "行动"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.no.tokenUrl.error": {
+    "defaultMessage": "令牌URL不应为空或格式不正确"
+  },
+  "Apis.Details.Documents.MarkdownEditor.edit.content": {
+    "defaultMessage": "编辑内容"
+  },
+  "Apis.Details.APIDefinition.AuditApi.overallScore": {
+    "defaultMessage": "{overallScoreText}{overallScore}/100"
+  },
+  "Base.Header.navbar.GlobalNavBar.api.products": {
+    "defaultMessage": "API产品"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.rest.api.import.open.title": {
+    "defaultMessage": "导入开放API"
+  },
+  "Apis.Details.Configuration.components.oauth.disabled": {
+    "defaultMessage": "密钥管理器配置仅在启用OAuth2安全性时有效。"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.streaming.sse.content": {
+    "defaultMessage": "创建服务器发送事件API"
+  },
+  "Apis.Details.NewOverview.MetaData.transports": {
+    "defaultMessage": "运输工具"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.config.save.button": {
+    "defaultMessage": "保存"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.update.not.allowed": {
+    "defaultMessage": "未经授权：权限不足，无法更新API定义"
+  },
+  "Apis.Details.QueryAnalysis.UpdateComplexity.fieldcomplexity": {
+    "defaultMessage": "领域"
+  },
+  "Apis.Create.OpenAPI.ApiCreateOpenAPI.sub.heading": {
+    "defaultMessage": "使用现有的OpenAPI定义文件或URL创建API。"
+  },
+  "Scopes.Listing.Listing.update.not.allowed": {
+    "defaultMessage": "*由于权限不足，您无权更新API的作用域"
+  },
+  "Apis.Details.index.documents": {
+    "defaultMessage": "文件"
+  },
+  "Apis.Details.Environments.Environments.deployments.heading": {
+    "defaultMessage": "部署"
+  },
+  "Apis.Details.APIDetailsTopMenu.download.api": {
+    "defaultMessage": "下载API"
+  },
+  "Apis.Details.Security.AddPolicy.threat.protection.policy.add.failure": {
+    "defaultMessage": "未能添加威胁保护策略。"
+  },
+  "Scopes.Create.Scope.displayName.length.exceeded": {
+    "defaultMessage": "超过255个字符的最大长度限制"
+  },
+  "Apis.Details.Comments.no.comments.content": {
+    "defaultMessage": "尚未提供此API的注释"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.create.prototype.endpoint.description": {
+    "defaultMessage": "使用内置JavaScript引擎对API进行原型化或为原型API提供端点。内置JavaScript引擎支持原型SOAP API"
+  },
+  "Apis.Details.Endpoints.Endpoints.endpoints.header": {
+    "defaultMessage": "端点"
+  },
+  "Apis.Details.Configuration.components.storeVisibility.tooltip.public.desc": {
+    "defaultMessage": "API对每个人都是可访问的，并且可以在多个开发人员门户中发布—中央开发人员门户和/或非WSO2开发人员门户。"
+  },
+  "Apis.Details.Documents.Create.markdown.editor.upload.error": {
+    "defaultMessage": "上载文件时出错"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.summary.helper.text": {
+    "defaultMessage": "提供文档的简要说明"
+  },
+  "Apis.Details.Topics.components.operationComponents.OperationGovernance.operation.scope.helperText": {
+    "defaultMessage": "选择作用域以控制此操作的权限"
+  },
+  "Scopes.Listing.Listing.table.header.roles": {
+    "defaultMessage": "角色"
+  },
+  "Apis.Create.APIProduct.APIProductCreateWrapper.defineProvide": {
+    "defaultMessage": "定义API产品"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.edit": {
+    "defaultMessage": "编辑"
+  },
+  "Apis.Details.APIDefinition.DefinitionOutdated.new.api.definition.error": {
+    "defaultMessage": "检索新API定义时出错。"
+  },
+  "Apis.Details.Endpoints.LoadBalanceConfig.algorithm": {
+    "defaultMessage": "算法"
+  },
+  "Apis.Create.Default.APICreateDefault.error.errorMessage.create.revision": {
+    "defaultMessage": "创建API修订版时出错"
+  },
+  "Apis.Details.APIDefinition.AuditApi.tooltip.severity": {
+    "defaultMessage": "严重性范围为："
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.oauth.grant.type.client": {
+    "defaultMessage": "客户端凭据"
+  },
+  "ServiceCatalog.ServicesTableView.ServicesTableView.name": {
+    "defaultMessage": "服务"
+  },
+  "Apis.Details.APIDefinition.DefinitionOutdated.api.outdated.definition": {
+    "defaultMessage": "当前API定义已过时。您可以重新导入新定义或创建此API的新版本。"
+  },
+  "Apis.Create.APIProduct.APIProductCreateWrapper.sub.heading": {
+    "defaultMessage": "通过提供名称、上下文、资源和业务计划（可选）来创建API产品。"
+  },
+  "ServiceCatalog.CreateApi.create.api": {
+    "defaultMessage": "创建API"
+  },
+  "Apis.Create.WSDL.ApiCreateWSDL.error.policies.not.available": {
+    "defaultMessage": "限制策略不可用。请与管理员联系"
+  },
+  "Apis.Details.Resources.Resources.something.went.wrong.while.updating.the.api": {
+    "defaultMessage": "更新API时出错"
+  },
+  "Apis.Details.Configuration.components.Endpoints.endpoints": {
+    "defaultMessage": "端点"
+  },
+  "Apis.Details.Overview.ProductResources.resources": {
+    "defaultMessage": "资源"
+  },
+  "Apis.Details.NewOverview.MetaData.securityScheme.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.MediationPolicies.Edit.AddMediationPolicy.error": {
+    "defaultMessage": "添加调解策略时出错"
+  },
+  "Apis.Create.AsyncAPI.ApiCreateAsyncAPI.wizard.two": {
+    "defaultMessage": "创建API"
+  },
+  "Apis.Details.ApiConsole.deployments.isAPIRetired": {
+    "defaultMessage": "无法试用失效的API！"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.title": {
+    "defaultMessage": "运营治理"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.details.close.button": {
+    "defaultMessage": "关闭"
+  },
+  "Apis.Create.Default.APICreateDefault.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.NewOverview.MetaData.transports.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.Topics.components.operationComponents.EditParameter.description": {
+    "defaultMessage": "描述"
+  },
+  "ServiceCatalog.Listing.Overview.mutual.ssl.enabled": {
+    "defaultMessage": "启用"
+  },
+  "Apis.Details.Resources.components.operationComponents.AddParameter.add.tooltip": {
+    "defaultMessage": "添加新参数"
+  },
+  "Apis.Details.NewOverview.Endpoints.sandbox.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.awslambda.endpoint.region": {
+    "defaultMessage": "区域"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.create.http.endpoint.description": {
+    "defaultMessage": "基于URI模板的REST API端点。"
+  },
+  "Apis.Create.GraphQL.ApiCreateGraphQL.create": {
+    "defaultMessage": "创建"
+  },
+  "Apis.Create.WSDL.Steps.ProvideWSDL.Input.file.upload": {
+    "defaultMessage": "浏览要上载的文件"
+  },
+  "Scopes.Create.CreateScope.scope.added.successfully": {
+    "defaultMessage": "已成功添加作用域"
+  },
+  "Apis.Details.Configuration.Configuration.Design.APIProduct.sub.heading": {
+    "defaultMessage": "配置基本API产品元信息"
+  },
+  "Apis.Details.Security.AddPolicy.threat.protection.policy.add.success": {
+    "defaultMessage": "已成功添加威胁保护策略。"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.rate.limiting.policy": {
+    "defaultMessage": "限速政策"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.operation.no.sharedpi.scope.available": {
+    "defaultMessage": "没有可用的共享作用域"
+  },
+  "Apis.Shared.ConfirmDialog.are.you.sure": {
+    "defaultMessage": "你确定吗？"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.certificate.details.of": {
+    "defaultMessage": "详细信息"
+  },
+  "Apis.Details.Resources.components.operationComponents.AddParameter.enter.parameter.name": {
+    "defaultMessage": "输入参数名称"
+  },
+  "Apis.Details.NewOverview.Endpoints.security.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Listing.ApiThumb.context": {
+    "defaultMessage": "上下文"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListParameter.required": {
+    "defaultMessage": "要求的"
+  },
+  "Apis.Listing.SampleAPI.popup.deploy.inprogress": {
+    "defaultMessage": "正在部署示例API。。。"
+  },
+  "Apis.Details.Configuration.components.CORSConfiguration.allow.credentials": {
+    "defaultMessage": "访问控制允许凭据"
+  },
+  "Apis.Details.Security.AddPolicy.add.threat.protection.policy": {
+    "defaultMessage": "添加新的威胁保护策略"
+  },
+  "Apis.Details.Documents.Listing.documents.listing.fetching.error.message": {
+    "defaultMessage": "获取API的文档列表时出错"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.remove": {
+    "defaultMessage": "移除"
+  },
+  "Apis.Details.Overview.Overview.topic.header": {
+    "defaultMessage": "概述"
+  },
+  "Apis.Details.Security.AddPolicy.policy": {
+    "defaultMessage": "政策"
+  },
+  "Apis.Details.Documents.Listing.column.header.action": {
+    "defaultMessage": "行动"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.certificate.delete.success": {
+    "defaultMessage": "证书删除成功"
+  },
+  "Apis.Details.Configuration.Configuration.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.index.properties": {
+    "defaultMessage": "属性"
+  },
+  "Scopes.Listing.Listing.scopes.enable.fine.gained.access.control": {
+    "defaultMessage": "作用域支持基于用户角色对API资源进行细粒度访问控制。"
+  },
+  "Apis.Details.Scopes.CreateScope.save": {
+    "defaultMessage": "保存"
+  },
+  "Apis.Details.index.api.not.found.body": {
+    "defaultMessage": "找不到具有给定id的API"
+  },
+  "Apis.Details.Monetization.Index.save": {
+    "defaultMessage": "保存"
+  },
+  "Apis.Details.Configurartion.components.QueryAnalysis.cancle.btn": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.graphql.api": {
+    "defaultMessage": "图形QL"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.technical.owner.name.helper.text": {
+    "defaultMessage": "提供技术所有者的名称"
+  },
+  "Apis.Details.Environments.Environments.deploy.new.revision.heading": {
+    "defaultMessage": "部署新修订版"
+  },
+  "ServiceCatalog.CreateApi.create.api.dialog.title": {
+    "defaultMessage": "创建API"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.format.select": {
+    "defaultMessage": "总体安排"
+  },
+  "Apis.Details.APIDefinition.AuditApi.OverallCriticality": {
+    "defaultMessage": "{overallCriticalityText}{overallCriticality}"
+  },
+  "Apis.Details.LifeCycle.CheckboxLabels.endpoints.provided": {
+    "defaultMessage": "提供的终结点"
+  },
+  "Apis.Details.Overview.CustomizedStepper.retired": {
+    "defaultMessage": "已退休的"
+  },
+  "Scopes.EditScope.update.scope": {
+    "defaultMessage": "更新作用域"
+  },
+  "Apis.Details.Overview.CustomizedStepper.deprecated": {
+    "defaultMessage": "已弃用"
+  },
+  "Apis.Details.Configuration.components.SchemaValidation.description": {
+    "defaultMessage": "启用JSON模式验证将导致在每个请求和响应中构建有效负载。这将影响API请求的往返时间！"
+  },
+  "Apis.Details.Scopes.Scopes.heading.scope.heading": {
+    "defaultMessage": "范围"
+  },
+  "Base.Footer.Footer.product_details": {
+    "defaultMessage": "WSO2 API-M v4.0.0 |©2021 WSO2公司"
+  },
+  "Apis.Create.GraphQL.ApiCreateGraphQL.wizard.one": {
+    "defaultMessage": "提供GraphQL"
+  },
+  "LoginDenied.title": {
+    "defaultMessage": "错误403：禁止"
+  },
+  "Apis.Details.Security.SecurityOverview.policy.type": {
+    "defaultMessage": "保单类型"
+  },
+  "documents.markdown.editor.default": {
+    "defaultMessage": "#输入降价内容"
+  },
+  "Apis.Details.Configuration.components.storeVisibility.form.helper.text": {
+    "defaultMessage": "默认情况下，API对所有开发人员门户用户可见"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.import.definition.asyncApi": {
+    "defaultMessage": "导入AsyncAPI定义"
+  },
+  "Apis.Details.Configuration.components.APISecurity.emptySchemas": {
+    "defaultMessage": "请至少选择一种API安全方法！"
+  },
+  "Apis.Details.LifeCycle.CheckboxLabels.cert.provided": {
+    "defaultMessage": "提供的证书"
+  },
+  "Apis.Details.Environments.Environments.revision.restore.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Properties.Properties.property.value": {
+    "defaultMessage": "值"
+  },
+  "Apis.Listing.SampleAPI.popup.revision.complete": {
+    "defaultMessage": "API版本创建成功！"
+  },
+  "Apis.Details.Scopes.Scopes.create.scopes.button": {
+    "defaultMessage": "创建作用域"
+  },
+  "Apis.Details.Topics.components.operationComponents.EditParameter.data.type": {
+    "defaultMessage": "数据类型"
+  },
+  "Apis.Details.Configuration.Configuration.section.events": {
+    "defaultMessage": "事件"
+  },
+  "Apis.Listing.ApiThumb.by.colon": {
+    "defaultMessage": ":"
+  },
+  "Apis.Details.Subscriptions.Listing.column.header.subscription.invoice": {
+    "defaultMessage": "发票"
+  },
+  "Apis.Listing.TableView.TableView.error.loading": {
+    "defaultMessage": "加载API时出错"
+  },
+  "Apis.Details.Documents.Create.successful.file.upload.message": {
+    "defaultMessage": "文件上载成功。"
+  },
+  "Apis.Details.Security.AddPolicy.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.technical.owner.email.helper.text": {
+    "defaultMessage": "提供技术负责人的电子邮件"
+  },
+  "ServiceCatalog.Listing.Overview.mutual.ssl": {
+    "defaultMessage": "相互SSL"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.error.while.updating.import.async.api.definition": {
+    "defaultMessage": "更新API定义时出错"
+  },
+  "Apis.Details.Overview.CustomizedStepper.publish.current.api": {
+    "defaultMessage": "（当前API）"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.upload": {
+    "defaultMessage": "上传"
+  },
+  "Apis.Details.Environments.Environments\n                                                                    .select.vhost": {
+    "defaultMessage": "选择访问URL"
+  },
+  "Apis.Details.APIDefinition.AuditApi.SecuritySummary": {
+    "defaultMessage": "{安全摘要}"
+  },
+  "Apis.Details.Overview.CustomizedStepper.Deploy": {
+    "defaultMessage": "部署"
+  },
+  "Apis.Details.Endpoints.Endpoints.missing.endpoint.error": {
+    "defaultMessage": "应添加生产端点或沙盒端点之一。"
+  },
+  "by": {
+    "defaultMessage": "By"
+  },
+  "Apis.Details.Resources.components.operationComponents.AddParameter.add": {
+    "defaultMessage": "添加"
+  },
+  "Scopes.Listing.Listing.table.header.description": {
+    "defaultMessage": "描述"
+  },
+  "Apis.Details.Configuration.components.storeVisibility.head.topic": {
+    "defaultMessage": "开发人员门户可见性"
+  },
+  "Apis.Create.APIProduct.APIProductCreateWrapper.resources": {
+    "defaultMessage": "添加资源"
+  },
+  "Apis.Details.Subscriptions.Listing.column.header.subscription.status": {
+    "defaultMessage": "状态"
+  },
+  "Apis.Create.GraphQL.Steps.ProvideGraphQL.Input.file.upload": {
+    "defaultMessage": "浏览要上载的文件"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.endpoint.error": {
+    "defaultMessage": "终结点不应为空"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.subscription.unblocked": {
+    "defaultMessage": "已取消阻止订阅。"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.business.owner.name": {
+    "defaultMessage": "企业所有者"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.basic": {
+    "defaultMessage": "基本身份验证"
+  },
+  "Base.Header.headersearch.HeaderSearch.tooltip.title": {
+    "defaultMessage": "API和APIProducts的搜索选项"
+  },
+  "Apis.Details.ApiConsole.environment": {
+    "defaultMessage": "环境"
+  },
+  "Base.Errors.ResourceNotFound.more.links": {
+    "defaultMessage": "您可以查看以下链接"
+  },
+  "Apis.Create.APIProduct.APIProductCreateWrapper.error.policies.not.available": {
+    "defaultMessage": "限制策略不可用。请与管理员联系"
+  },
+  "Apis.Details.Scopes.EditScope.update.scope": {
+    "defaultMessage": "更新作用域"
+  },
+  "Apis.Details.Environments.Environments.api.gateways.heading": {
+    "defaultMessage": "API网关"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.create.button": {
+    "defaultMessage": "添加"
+  },
+  "Apis.Details.ProductResources.ProductResourcesWorkspace.toolbar.\n                                                add.all": {
+    "defaultMessage": "全部添加"
+  },
+  "Apis.Create.Components.SelectPolicies.business.plans": {
+    "defaultMessage": "商业计划书"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.rate.limiting.policy.select": {
+    "defaultMessage": "为此操作选择速率限制策略"
+  },
+  "Apis.Details.Configuration.components.transport.sslHttps": {
+    "defaultMessage": "请选择Https作为相互SSL的传输！"
+  },
+  "Apis.Details.Environments.Environments.deploy.deploy": {
+    "defaultMessage": "部署"
+  },
+  "Apis.Details.Topics.components.operationComponents.OperationGovernance.operation.no.api.scope.available": {
+    "defaultMessage": "没有可用的API作用域"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.oauth.grant.type.password": {
+    "defaultMessage": "资源所有者密码"
+  },
+  "Apis.Details.Endpoints.LoadbalanceFailoverConfig.sandbox.failover.endpoint": {
+    "defaultMessage": "沙盒故障切换终结点"
+  },
+  "Apis.Details.Properties.Properties.editable.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Resources.components.AddOperation.option": {
+    "defaultMessage": "选项"
+  },
+  "Apis.Details.APIDefinition.AuditApi.Security": {
+    "defaultMessage": "安全"
+  },
+  "Apis.Details.Configuration.components.AccessControl.roles": {
+    "defaultMessage": "角色"
+  },
+  "Apis.Details.Scopes.Scopes.table.header.usages": {
+    "defaultMessage": "用于"
+  },
+  "ServiceCatalog.Listing.Onboarding.error.creating.sample.service": {
+    "defaultMessage": "创建示例服务时出错"
+  },
+  "error.list.500": {
+    "defaultMessage": "500：无法显示页面。"
+  },
+  "Apis.Create.Default.APICreateDefault.error.policies.not.available": {
+    "defaultMessage": "限制策略不可用。请与管理员联系"
+  },
+  "ServiceCatalog.Listing.Overview.error.loading.service": {
+    "defaultMessage": "加载服务时出错"
+  },
+  "upload.image": {
+    "defaultMessage": "单击或拖动要上载的图像。"
+  },
+  "Apis.Details.Configuration.components.AccessControl.form.helper.text": {
+    "defaultMessage": "默认情况下没有访问限制"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.change.type.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Scopes.Delete.Delete.document.scope.label.ok.confirm": {
+    "defaultMessage": "是否确实要删除作用域{scope}？"
+  },
+  "Apis.Details.Resources.components.AddOperation.http.verb": {
+    "defaultMessage": "HTTP谓词"
+  },
+  "Apis.Details.Endpoints.LoadbalanceFailoverConfig.load.balance.configuration.title": {
+    "defaultMessage": "负载平衡配置"
+  },
+  "Scopes.Usage.UsageView.resource.target": {
+    "defaultMessage": "目标"
+  },
+  "Apis.Details.Configuration.components.Social.slack_url.help": {
+    "defaultMessage": "此松弛通道URL将在开发人员门户的API概述页面中提供"
+  },
+  "Apis.Details.APIDefinition.WSDL.update.not.allowed": {
+    "defaultMessage": "未经授权：权限不足，无法更新WSDL定义"
+  },
+  "Apis.Create.Default.APICreateDefault.webSocket.sub.heading": {
+    "defaultMessage": "通过提供名称和上下文来创建WebSocket API。"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.service.catalog.api": {
+    "defaultMessage": "服务目录"
+  },
+  "ServiceCatalog.Listing.Usages.usage": {
+    "defaultMessage": "{serviceName}的用法"
+  },
+  "Apis.Details.Environments.Environments\n                                                                    .select.table": {
+    "defaultMessage": "选择修订"
+  },
+  "Scopes.EditScope.update": {
+    "defaultMessage": "使现代化"
+  },
+  "Apis.Details.Configuration.components.APISecurity.http.mandatory": {
+    "defaultMessage": "选择传输级别安全是强制的还是可选的"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.duration.ms": {
+    "defaultMessage": "持续时间（ms）"
+  },
+  "Apis.Details.Resources.APIOperations.title": {
+    "defaultMessage": "资源"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.operation.scope.select.shared": {
+    "defaultMessage": "共享作用域"
+  },
+  "Apis.Details.Configuration.components.Social.slack": {
+    "defaultMessage": "松弛URL"
+  },
+  "Apis.Details.Operations.Operation.authType": {
+    "defaultMessage": "已启用安全性"
+  },
+  "Apis.Details.ProductResources.ProductResourcesWorkspace.\n                                                    empty.title": {
+    "defaultMessage": "使用左侧面板添加资源"
+  },
+  "Apis.Create.StreamingAPI.APICreateStreamingAPI.api.heading": {
+    "defaultMessage": "创建流式API"
+  },
+  "Apis.Details.APIDefinition.AuditApi.OASNoIssuesFound": {
+    "defaultMessage": "未发现问题"
+  },
+  "Apis.Create.GraphQL.ApiCreateGraphQL.heading": {
+    "defaultMessage": "使用GraphQL SDL定义创建API"
+  },
+  "Apis.Details.Environments.Environments.revision.delete.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Environments.Environments.revision.delete.success": {
+    "defaultMessage": "已成功删除修订"
+  },
+  "Apis.Listing.components.TopMenu.apis": {
+    "defaultMessage": "应用程序编程接口"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.prototype.implementation": {
+    "defaultMessage": "原型实现"
+  },
+  "Apis.Details.Configuration.components.KeyManager.more.than.one.info": {
+    "defaultMessage": "选择一个或多个关键管理者"
+  },
+  "Apis.Details.Configurations.api.categories": {
+    "defaultMessage": "API类别"
+  },
+  "Apis.Details.Documents.TextEditor.update.error.message": {
+    "defaultMessage": "更新失败。"
+  },
+  "Apis.Details.Environments.Environments.revision\n                                                    .description.deploy": {
+    "defaultMessage": "向修订添加说明"
+  },
+  "Scopes.Listing.Listing.table.header.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Details.Environments.Environments.api.gateways.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Create.AsyncAPI.Steps.ProvideAsyncAPI.Input.file.dropzone": {
+    "defaultMessage": "将AsyncAPI文件拖放到此处{break}或{break}浏览文件"
+  },
+  "Scopes.Usage.UsageViewAPI.api.usage": {
+    "defaultMessage": "API列表"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.no.subscriptions": {
+    "defaultMessage": "没有可用的订阅数据"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.password.input": {
+    "defaultMessage": "密码"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.create.type.other.document.category.helper.text": {
+    "defaultMessage": "提供文档类型"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.streaming.websub.content": {
+    "defaultMessage": "创建Webhook/WebSub API"
+  },
+  "Apis.Details.Documents.TextEditor.edit.content.of": {
+    "defaultMessage": "编辑的内容"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.alias.exist.error": {
+    "defaultMessage": "别名已存在"
+  },
+  "Scopes.Create.Scope.display.name.length.exceeded": {
+    "defaultMessage": "超过512个字符的最大长度限制"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListParameter.parameter.name": {
+    "defaultMessage": "名称/内容类型"
+  },
+  "Apis.Details.Monetization.Index.monetization.disabled.successfully": {
+    "defaultMessage": "成功禁用货币化"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.blocked.subs.state": {
+    "defaultMessage": "此 路 不通"
+  },
+  "Apis.Details.Documents.Listing.add.new.document.button": {
+    "defaultMessage": "添加新文档"
+  },
+  "Apis.Details.index.api.not.found.title": {
+    "defaultMessage": "在{environmentLabel}环境中找不到API"
+  },
+  "Apis.Create.GraphQL.ApiCreateGraphQL.back": {
+    "defaultMessage": "返回"
+  },
+  "Apis.Details.Endpoints.Endpoints.missing.sandbox.endpoint.loadbalance": {
+    "defaultMessage": "默认沙盒终结点不应为空"
+  },
+  "Scopes.Create.CreateScope.save": {
+    "defaultMessage": "保存"
+  },
+  "Apis.Details.APIDefinition.AuditApi\n                                                                    .OverallScoreProgress": {
+    "defaultMessage": "{总分}"
+  },
+  "Apis.Details.Operations.Operation.scopes": {
+    "defaultMessage": "范围"
+  },
+  "Apis.Details.Overview.\n                                                                    CustomizedStepper.Endpoint": {
+    "defaultMessage": "端点"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.select.color.for.the.icon": {
+    "defaultMessage": "选择图标的颜色"
+  },
+  "Apis.Details.Configuration.components.AccessControl.head.topic": {
+    "defaultMessage": "发布者访问控制"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.default.prototype.endpoints": {
+    "defaultMessage": "原型端点"
+  },
+  "Apis.Details.Configuration.Resources.save": {
+    "defaultMessage": "保存"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.rate.limiting.governed.by": {
+    "defaultMessage": "速率限制由"
+  },
+  "Apis.Create.OpenAPI.ApiCreateOpenAPI.heading": {
+    "defaultMessage": "使用OpenAPI定义创建API。"
+  },
+  "Apis.Details.NewVersion.NewVersion.create": {
+    "defaultMessage": "创建"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EditableParameterRow.Parameter.Value": {
+    "defaultMessage": "参数值"
+  },
+  "Apis.Listing.SampleAPI.continue.on.close": {
+    "defaultMessage": "关闭"
+  },
+  "Apis.Details.Configuration.components.CORSConfiguration.allow.\n                                                    origins": {
+    "defaultMessage": "访问控制允许源"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.operation.scope.select.local": {
+    "defaultMessage": "API范围"
+  },
+  "Apis.Details.Documents.Listing.add.new.msg.title": {
+    "defaultMessage": "创建文档"
+  },
+  "Apis.Details.Documents.MarkdownEditor.edit.content.of": {
+    "defaultMessage": "编辑的内容"
+  },
+  "Apis.Details.Configuration.Configuration.auth.header.label": {
+    "defaultMessage": "授权标头"
+  },
+  "Apis.Details.index.schema.definition": {
+    "defaultMessage": "架构定义"
+  },
+  "Apis.Details.LifeCycle.LifeCycle.lifecycle": {
+    "defaultMessage": "生命周期"
+  },
+  "Scopes.Usage.Usage.usage.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Properties.Properties.add.new.property.table": {
+    "defaultMessage": "属性名称"
+  },
+  "Apis.Create.Default.APICreateDefault.success.otherStatus": {
+    "defaultMessage": "API更新成功"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.prototype.endpoint.prototype.label": {
+    "defaultMessage": "原型端点"
+  },
+  "UnexpectedError.message": {
+    "defaultMessage": "由于请求无效而发生错误"
+  },
+  "Apis.Shared.ConfirmDialog.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Configuration.RuntimeConfigurationWebSocket.topic.header": {
+    "defaultMessage": "运行时配置"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.awslambda.endpoint.linkToResources": {
+    "defaultMessage": "转到参考资料以映射ARN"
+  },
+  "Apis.Details.Topics.components.operationComponents.OperationGovernance.operation.scope.label.notAvailable": {
+    "defaultMessage": "无可用范围"
+  },
+  "Apis.Details.Scopes.Roles.User.Invalid": {
+    "defaultMessage": "必须至少有一个角色与API创建者关联"
+  },
+  "Apis.Details.Configuration.RuntimeConfigurationWebSocket.section.client.websocket": {
+    "defaultMessage": "客户端Websocket"
+  },
+  "Apis.Listing.components.TopMenu.api.singular": {
+    "defaultMessage": "应用程序编程接口"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.docVisibility.dropdown.ownerOnly": {
+    "defaultMessage": "仅限所有者"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.api.definition.updated.successfully": {
+    "defaultMessage": "API定义更新成功"
+  },
+  "ServiceCatalog.CreateApi.cancel.btn": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Properties.Properties.\n                    property.name.keyword.error": {
+    "defaultMessage": "属性名称不能是系统保留关键字"
+  },
+  "Base.Errors.ResourceNotFound.api.list": {
+    "defaultMessage": "API列表"
+  },
+  "Apis.Details.NewOverview.MetaData.lastUpdatedTime.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.APIDefinition.AuditApi.AuditScoreSummary": {
+    "defaultMessage": "审核得分和总结"
+  },
+  "Apis.Details.NewVersion.NewVersion.tooltip": {
+    "defaultMessage": "指示这是否是API的默认版本。如果调用API时未指定版本，则API网关会将请求路由到API的默认版本。"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.receiver.io.error.sending": {
+    "defaultMessage": "Retriever IO发送错误"
+  },
+  "Apis.Details.Configuration.Configuration.prototype.endpoints.provided": {
+    "defaultMessage": "提供的原型端点"
+  },
+  "Apis.Details.Subscriptions.SubscriptionAvailability.current.tenant.only": {
+    "defaultMessage": "仅当前租户可用"
+  },
+  "Apis.Details.Topics.components.operationComponents.OperationGovernance.operation.scope.label.default": {
+    "defaultMessage": "经营范围："
+  },
+  "ServiceCatalog.Listing.Onboarding.learn.heading.text": {
+    "defaultMessage": "创建并部署第一个集成服务"
+  },
+  "Apis.Details.Scopes.Scopes.create.scopes.title": {
+    "defaultMessage": "创建API本地作用域"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.streaming.websub.title": {
+    "defaultMessage": "Webhook API"
+  },
+  "ServiceCatalog.CreateApi.create.api.dialog.helper": {
+    "defaultMessage": "从服务{serviceName}创建API"
+  },
+  "Apis.Create.AsyncAPI.Steps.ProvideAsyncAPI.Input.file.upload": {
+    "defaultMessage": "浏览要上载的文件"
+  },
+  "Apis.Details.Configuration.components.DescriptionEditor.edit.description.of": {
+    "defaultMessage": "说明："
+  },
+  "Apis.Details.Overview.CustomizedStepper.blocked": {
+    "defaultMessage": "此 路 不通"
+  },
+  "Apis.Listing.TableView.TableView.doc.flag": {
+    "defaultMessage": "[文件]"
+  },
+  "Apis.Details.Documents.Listing.column.header.type": {
+    "defaultMessage": "类型"
+  },
+  "Apis.Details.Environments.Environments.deploy.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Subscriptions.Subscriptions.save": {
+    "defaultMessage": "保存"
+  },
+  "Apis.Details.Environments.Environments.select.rev.delete": {
+    "defaultMessage": "要删除的修订"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListParameter.body": {
+    "defaultMessage": "身体"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.error.subscription.block": {
+    "defaultMessage": "错误：无法阻止订阅。（原因：{消息}）"
+  },
+  "Apis.Create.Default.APICreateDefault.apiProduct.sub.heading": {
+    "defaultMessage": "通过提供名称、上下文和业务计划（可选）来创建API产品。"
+  },
+  "Apis.Details.NewOverview.MetaData.tags": {
+    "defaultMessage": "标签"
+  },
+  "Apis.Details.Endpoints.Endpoints.missing.prod.endpoint.loadbalance": {
+    "defaultMessage": "默认生产终结点不应为空"
+  },
+  "Apis.Details.Configuration.components.Endpoints.dynamic": {
+    "defaultMessage": "动态"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.discard.message": {
+    "defaultMessage": "放弃消息"
+  },
+  "Apis.Create.WSDL.Steps.ProvideWSDL.url.label": {
+    "defaultMessage": "WSDL URL"
+  },
+  "Apis.Details.APIDefinition.info.updating.auditapi": {
+    "defaultMessage": "要反映所做的更改，您需要单击Audit API"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.error.while.updating.import.api.definition": {
+    "defaultMessage": "更新API定义时出错"
+  },
+  "Apis.Details.APIDefinition.WSDL.download.error": {
+    "defaultMessage": "下载WSDL ZIP文件时出错"
+  },
+  "Apis.Create.Components.DefaultAPIForm.version": {
+    "defaultMessage": "版本"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.api.definition.save.confirmation": {
+    "defaultMessage": "是否确实要保存API定义？这可能会影响现有资源。"
+  },
+  "Apis.Details.Security.AddPolicy.policy.type.label": {
+    "defaultMessage": "策略类型："
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.remove.btn": {
+    "defaultMessage": "移除"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.select.schema.data.type": {
+    "defaultMessage": "选择架构类型"
+  },
+  "Api.category.dropdown.tooltip": {
+    "defaultMessage": "允许对具有类似属性的API进行分组。为了连接到API，环境中必须有预定义的API类别。"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.sub.heading": {
+    "defaultMessage": "管理API的订阅"
+  },
+  "Apis.Details.Configuration.components.Tags.validation.error": {
+    "defaultMessage": "标记包含一个或多个非法字符（~！@\\\\；%^&*+=}\\124；<>，'“\\\\/）。"
+  },
+  "Apis.Details.NewOverview.BusinessInformation.business.owner.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.APILevelRateLimitingPolicies.components.Configuration.tooltip": {
+    "defaultMessage": "选定的速率限制策略将应用于此API的所有请求。"
+  },
+  "Apis.Details.Configuration.components.Endpoints.sandbox.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.Documents.Delete.document.listing.delete.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Documents.Download.documents.listing.download": {
+    "defaultMessage": "下载"
+  },
+  "Apis.Details.Overview.CustomizedStepper.Test": {
+    "defaultMessage": "测试"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.btn.close": {
+    "defaultMessage": "关闭"
+  },
+  "Apis.Details.Configuration.AuthHeader.helper.text": {
+    "defaultMessage": "授权标头名称不能包含空格或特殊字符"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.loadbalance.config.cancel.button": {
+    "defaultMessage": "关闭"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.retries.before.suspension": {
+    "defaultMessage": "暂停前重试"
+  },
+  "Apis.Details.Subscriptions.Subscriptions.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Documents.Delete.document.delete": {
+    "defaultMessage": "删除"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.awslambda.endpoint.secretKey": {
+    "defaultMessage": "机密密钥"
+  },
+  "Apis.Details.Documents.Delete.document.listing.delete.confirm.title": {
+    "defaultMessage": "删除文档"
+  },
+  "Apis.Details.Documents.TextEditor.update.success.message": {
+    "defaultMessage": "已成功更新。"
+  },
+  "ServiceCatalog.Listing.Onboarding.sample.heading.text": {
+    "defaultMessage": "部署WSO2 API Manager中已经提供的示例集成服务，只需单击一下即可开始"
+  },
+  "ServiceCatalog.Listing.Onboarding.sample.heading.sub": {
+    "defaultMessage": "集成服务"
+  },
+  "Apis.Listing.ApiTableView.context": {
+    "defaultMessage": "上下文"
+  },
+  "Apis.Create.AsyncAPI.Steps.ProvideAsyncAPI.Input.type": {
+    "defaultMessage": "输入类型"
+  },
+  "Apis.Details.Configuration.components.AccessControl.dropdown.none": {
+    "defaultMessage": "全部"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.soap.import.wsdl.content": {
+    "defaultMessage": "生成REST或创建直通API"
+  },
+  "Apis.Details.Configuration.Configuration.isdefault.label": {
+    "defaultMessage": "将此设置为默认版本"
+  },
+  "Apis.Details.Environments.Environments.APIGateways": {
+    "defaultMessage": "API网关"
+  },
+  "Apis.Details.Environments.Environments.revision.delete.confirm.ok": {
+    "defaultMessage": "对"
+  },
+  "Apis.Details.Topics.components.operationComponents.OperationGovernance.operation.scope.create.new.scope": {
+    "defaultMessage": "创建新范围"
+  },
+  "Base.Header.avatar.Avatar.logout": {
+    "defaultMessage": "注销"
+  },
+  "Apis.Shared.RedirectToLogin.you.will.be.redirected.to": {
+    "defaultMessage": "您将被重定向到{page}"
+  },
+  "Base.Header.headersearch.HeaderSearch.tooltip.option2": {
+    "defaultMessage": "提供者[语法-提供者：xxxx]"
+  },
+  "Apis.Details.Configuration.RuntimeConfiguration.section.fault": {
+    "defaultMessage": "过错"
+  },
+  "Base.Header.headersearch.HeaderSearch.tooltip.option3": {
+    "defaultMessage": "版本[语法-版本：xxxx]"
+  },
+  "Apis.Details.Endpoints.GenericEndpoint.security.endpoint": {
+    "defaultMessage": "端点安全"
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.LifecyclePending.success": {
+    "defaultMessage": "已成功删除生命周期任务"
+  },
+  "Base.Header.headersearch.HeaderSearch.tooltip.option0": {
+    "defaultMessage": "内容[默认值]"
+  },
+  "Apis.Details.APIDefinition.WSDL.wsdl.definition": {
+    "defaultMessage": "WSDL定义"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.delete.error": {
+    "defaultMessage": "删除文件时出错"
+  },
+  "Base.Header.headersearch.HeaderSearch.tooltip.option1": {
+    "defaultMessage": "名称[语法-名称：xxxx]"
+  },
+  "Base.Header.headersearch.HeaderSearch.tooltip.option6": {
+    "defaultMessage": "说明[语法-说明：xxxx]"
+  },
+  "Base.Header.headersearch.HeaderSearch.tooltip.option4": {
+    "defaultMessage": "上下文[语法-上下文：xxxx]"
+  },
+  "ServiceCatalog.Listing.Overview.service.type.soap.tooltip": {
+    "defaultMessage": "SOAP服务"
+  },
+  "Apis.Create.Components.DefaultAPIForm.api.product.context": {
+    "defaultMessage": "上下文"
+  },
+  "Apis.Create.WSDL.Steps.ProvideWSDL.passthrough.label": {
+    "defaultMessage": "通过"
+  },
+  "Apis.Details.LifeCycle.CheckboxLabels.business.plans.selected": {
+    "defaultMessage": "选定的业务计划"
+  },
+  "Base.Header.headersearch.HeaderSearch.tooltip.option5": {
+    "defaultMessage": "状态[语法-状态：xxxx]"
+  },
+  "Apis.Details.Operations.Operation.OperationType": {
+    "defaultMessage": "操作类型"
+  },
+  "Apis.Details.Configuration.components.DescriptionEditor.update.cont.button": {
+    "defaultMessage": "更新内容"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.create.http.endpoint": {
+    "defaultMessage": "HTTP/REST端点"
+  },
+  "Apis.Create.WSDL.ApiCreateWSDL.sub.heading": {
+    "defaultMessage": "通过导入SOAP服务的WSDL，将现有SOAP服务作为REST API公开。"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.import.definition.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.APIDefinition.AuditApi.FailedToValidate.Content": {
+    "defaultMessage": "修复下面显示的关键错误，然后再次运行审核。"
+  },
+  "Apis.Details.NewVersion.NewVersion.error": {
+    "defaultMessage": "创建新版本时出错！。错误："
+  },
+  "Apis.Details.EditScopes.Roles.Invalid": {
+    "defaultMessage": "角色无效"
+  },
+  "ServiceCatalog.Listing.Overview.service.description": {
+    "defaultMessage": "{说明}"
+  },
+  "Apis.Details.Endpoints.LoadbalanceFailoverConfig.production.failover.endpoint": {
+    "defaultMessage": "生产故障切换终结点"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.oauth": {
+    "defaultMessage": "OAuth 2.0"
+  },
+  "Apis.Details.NewOverview.MetaData.tags.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.Configuration.components.APISecurity.application.mandatory": {
+    "defaultMessage": "选择应用程序级安全是强制的还是可选的"
+  },
+  "Apis.Details.Documents.Edit.markdown.editor.update.error.message": {
+    "defaultMessage": "添加文档时出错"
+  },
+  "Apis.Details.Configuration.components.CORSConfigurations.header.helper": {
+    "defaultMessage": "键入页眉名称后按“Enter”，添加新页眉"
+  },
+  "Apis.Details.Configuration.components.CORSConfigurations.origin.helper": {
+    "defaultMessage": "键入原点名称后按“Enter”添加新原点"
+  },
+  "Apis.Details.NewVersion.NewVersion.cancel": {
+    "defaultMessage": "取消"
+  },
+  "ServiceCatalog.Listing.Listing.heading.displaying.service": {
+    "defaultMessage": "服务"
+  },
+  "Apis.Details.APIDefinition.AuditApi.DataValidation": {
+    "defaultMessage": "数据验证"
+  },
+  "Apis.Details.Monetization.Index.cancel": {
+    "defaultMessage": "取消"
+  },
+  "ServiceCatalog.Listing.Overview.readonly.breadcrumb": {
+    "defaultMessage": "概述"
+  },
+  "Apis.Create.OpenAPI.Steps.ProvideOpenAPI.Input.file.dropzone": {
+    "defaultMessage": "将打开的API文件/存档拖放到此处{break}或{break}浏览文件"
+  },
+  "Apis.Details.Configuration.components.AccessControl.dropdown.restricted": {
+    "defaultMessage": "按角色限制"
+  },
+  "Apis.Details.Documents.Delete.selected.document.listing.delete.confirm.title": {
+    "defaultMessage": "删除所选文档"
+  },
+  "Scopes.Create.CreateScope.short.description.display.name": {
+    "defaultMessage": "输入范围显示名称（例如：：creator）"
+  },
+  "Apis.Create.APIProduct.APIProductCreateWrapper.next": {
+    "defaultMessage": "下一步"
+  },
+  "Apis.Details.Endpoints.NewEndpointCreate.create.dynamic.endpoint.description": {
+    "defaultMessage": "如果需要将请求发送到to标头中指定的URI。"
+  },
+  "Apis.Details.Properties.Properties.help.main": {
+    "defaultMessage": "通常，API有一组预定义的属性，如名称、版本、上下文等。API属性允许您向API添加特定的自定义属性。"
+  },
+  "Apis.Details.index.external-stores": {
+    "defaultMessage": "外部开发门户"
+  },
+  "Apis.Details.Comments.CommentAdd.write.comment.help": {
+    "defaultMessage": "写评论"
+  },
+  "Apis.APIProductCreateWrapper.error.errorMessage.deploy.revision": {
+    "defaultMessage": "部署API修订版时出错"
+  },
+  "Apis.Details.index.comments": {
+    "defaultMessage": "评论"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.invalid.file": {
+    "defaultMessage": "无效的文件类型"
+  },
+  "ServiceCatalog.Listing.Overview.display.name": {
+    "defaultMessage": "{serviceDisplayName}"
+  },
+  "Apis.Details.APIDefinition.AuditApi.WaitForReport.Content": {
+    "defaultMessage": "第一次审核API需要一些时间"
+  },
+  "Apis.Listing.SampleAPI.popup.create.inprogress": {
+    "defaultMessage": "正在创建示例API。。。"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.operation.scope.create.new.scope": {
+    "defaultMessage": "创建新范围"
+  },
+  "Scopes.Listing.Listing.table.header.number.of.usages": {
+    "defaultMessage": "使用次数"
+  },
+  "Scopes.Create.CreateScope.short.description.name": {
+    "defaultMessage": "输入范围名称（例如：：creator）"
+  },
+  "Apis.Details.ProductResources.ProductResourcesEdit.title": {
+    "defaultMessage": "管理资源"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.error.subscription.block.prod.only": {
+    "defaultMessage": "错误：无法阻止订阅。（原因：{消息}）"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.convert.to": {
+    "defaultMessage": "转换为"
+  },
+  "Endpoint.Suspension.State": {
+    "defaultMessage": "端点挂起状态"
+  },
+  "block.production.only": {
+    "defaultMessage": "仅限区块生产"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.label.parameter.value": {
+    "defaultMessage": "参数值"
+  },
+  "Apis.Details.Configuration.components.storeVisibility.dropdown.restrict": {
+    "defaultMessage": "按角色限制"
+  },
+  "Apis.Details.Endpoints.Endpoints.missing.security.oauth.password.error": {
+    "defaultMessage": "端点安全令牌URL/API密钥/API密钥/用户名/密码不应为空"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.input.parameter.value": {
+    "defaultMessage": "参数值"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.error": {
+    "defaultMessage": "检索中介策略时出错"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.create.type.public.forum": {
+    "defaultMessage": "公共论坛"
+  },
+  "Scopes.Create.CreateScope.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.password.message": {
+    "defaultMessage": "输入密码"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.endpoint": {
+    "defaultMessage": "端点"
+  },
+  "Apis.Details.Documents.Edit.documents.text.editor.update.content": {
+    "defaultMessage": "保存"
+  },
+  "Apis.Details.Overview.CustomizedStepper.pending": {
+    "defaultMessage": "请求正在挂起"
+  },
+  "Apis.Details.APIDefinition.AuditApi.GetReportError": {
+    "defaultMessage": "检索API安全报告时出错"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.awslambda.endpoint.accessMethod.roleSupplied": {
+    "defaultMessage": "使用IAM角色提供的临时AWS凭据"
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.success.otherStatus": {
+    "defaultMessage": "生命周期状态已成功更新"
+  },
+  "Apis.Details.Configuration.Configuration.isdefault.yes": {
+    "defaultMessage": "对"
+  },
+  "Apis.Details.Documents.Create.markdown.editor.add.error": {
+    "defaultMessage": "添加文档时出错"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.message.content": {
+    "defaultMessage": "消息内容"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.async.api.definition.updated.successfully": {
+    "defaultMessage": "API定义更新成功"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.label.parameter.name": {
+    "defaultMessage": "参数名称"
+  },
+  "Apis.Details.Configuration.Configuration.AuthHeader.tooltip": {
+    "defaultMessage": "用于发送授权信息的标头名称。“授权”是默认标题。"
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.LifecyclePending.current.state": {
+    "defaultMessage": "当前状态为"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.update.not.allowed": {
+    "defaultMessage": "*由于权限不足，您无权将API发布到外部开发人员门户"
+  },
+  "Apis.Details.Properties.Properties.\n                                                                    show.add.property.invalid.error": {
+    "defaultMessage": "无效的属性名称"
+  },
+  "Apis.Details.Configuration.components.MaxBackendTps.formattedMessage": {
+    "defaultMessage": "每秒最大后端事务数（整数）"
+  },
+  "Apis.Details.Configuration.components.Subscription.secret": {
+    "defaultMessage": "秘密"
+  },
+  "Apis.Details.LifeCycle.publish.content": {
+    "defaultMessage": "除非部署API，否则该API将无法使用。"
+  },
+  "Apis.Details.Configuration.Configuration.defaultversion.tooltip": {
+    "defaultMessage": "指示这是否是API的默认版本。如果调用API时未指定版本，则API网关会将请求路由到API的默认版本。"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.create.type.other": {
+    "defaultMessage": "另外"
+  },
+  "Apis.Details.Environments.Environments.revision.delete": {
+    "defaultMessage": "删除"
+  },
+  "Apis.Details.Subscriptions.Listing.column.header.subscription.actions": {
+    "defaultMessage": "行动"
+  },
+  "Apis.Details.Endpoints.LoadBalanceConfig.failover": {
+    "defaultMessage": "启用故障切换"
+  },
+  "Apis.Details.Topics.components.operationComponents.EditParameter.select.data.type": {
+    "defaultMessage": "选择数据类型"
+  },
+  "Apis.Listing.components.TopMenu.apiproducts.results": {
+    "defaultMessage": "API产品"
+  },
+  "Apis.Details.Topics.components.operationComponents.EditPayloadProperty.select.data.type": {
+    "defaultMessage": "选择数据类型"
+  },
+  "Apis.Details.Environments.Environments.gateway.accessUrl": {
+    "defaultMessage": "网关访问URL"
+  },
+  "Base.Header.navbar.GlobalNavBar.Service.Catalog": {
+    "defaultMessage": "服务"
+  },
+  "Apis.Details.NewOverview.Endpoints.production.endpoint": {
+    "defaultMessage": "生产终结点"
+  },
+  "ServiceCatalog.Listing.Overview.service.version": {
+    "defaultMessage": "{服务版本}"
+  },
+  "Apis.Details.Environments.Environments.revision.delete.error": {
+    "defaultMessage": "删除修订时出错"
+  },
+  "ServiceCatalog.CreateApi.api.name.label": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Details.NewOverview.MetaData.last.updated.time": {
+    "defaultMessage": "上次更新时间"
+  },
+  "Apis.Details.Endpoints.Endpoints.update.not.allowed": {
+    "defaultMessage": "*由于权限不足，您无权更新API的端点"
+  },
+  "Scopes.Create.CreateScope.saving": {
+    "defaultMessage": "节省物"
+  },
+  "Apis.Details.APIDefinition.DefinitionOutdated.btn.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Documents.Delete.document.listing.label.ok.confirm": {
+    "defaultMessage": "是否确实要删除作用域{scope}？"
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.LifecyclePending.dialog.title": {
+    "defaultMessage": "删除任务"
+  },
+  "Apis.Details.LifeCycle.LifeCycleUpdate.LifecyclePending.error": {
+    "defaultMessage": "删除任务时出错"
+  },
+  "upload.image.size.error": {
+    "defaultMessage": "上载的文件太大。最大文件大小限制为1MB"
+  },
+  "Apis.Details.ProductResources.ProductResourcesEdit.api.resources": {
+    "defaultMessage": "选择API资源"
+  },
+  "ServiceCatalog.ServicesTableView.ServicesTableView.schema.type": {
+    "defaultMessage": "架构类型"
+  },
+  "ServiceCatalog.Listing.Delete.ok.yes": {
+    "defaultMessage": "对"
+  },
+  "ServiceCatalog.Listing.Listing.heading.displaying.total": {
+    "defaultMessage": "总计："
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.clientId.input": {
+    "defaultMessage": "客户端ID"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.streaming.import.content": {
+    "defaultMessage": "上载文件或提供异步API URL"
+  },
+  "ServiceCatalog.Listing.Listing.error.loading": {
+    "defaultMessage": "加载服务时出错"
+  },
+  "Apis.Details.APIDefinition.DefinitionOutdated.btn.show.diff": {
+    "defaultMessage": "显示差异"
+  },
+  "Apis.Create.GraphQL.ApiCreateGraphQL.sub.heading": {
+    "defaultMessage": "通过导入现有GraphQL SDL定义创建API。"
+  },
+  "Apis.Details.components.DeleteApiButton.text.description": {
+    "defaultMessage": "{type}<b>{name}{version}</b>将被永久删除。"
+  },
+  "ServiceCatalog.CreateApi.update.btn": {
+    "defaultMessage": "创建API"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.name.helper.text": {
+    "defaultMessage": "提供文档的名称"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.delete.success": {
+    "defaultMessage": "已成功删除调解策略。"
+  },
+  "ServiceCatalog.CreateApi.api.context.label": {
+    "defaultMessage": "上下文"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.digest.auth": {
+    "defaultMessage": "摘要身份验证"
+  },
+  "Apis.Details.NewOverview.BusinessInformation.business.owner": {
+    "defaultMessage": "企业所有者"
+  },
+  "Apis.Details.Properties.Properties.help": {
+    "defaultMessage": "属性名称应唯一，不应包含空格，不能超过80个字符，并且不能是以下任何保留关键字：提供程序、版本、上下文、状态、描述、子上下文、文档、lcState、名称、标记。"
+  },
+  "Scopes.Delete.Delete.scope.listing.label.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Listing.components.TopMenu.search.results": {
+    "defaultMessage": "搜索结果"
+  },
+  "Apis.Details.Configuration.components.AccessControl.tooltip.restrict.\n                                    desc": {
+    "defaultMessage": "API只能由具有指定角色的特定发布者和创建者查看和修改"
+  },
+  "Apis.Details.Resources.components.AddOperation.operation.topic.cannot.have.path.params.warning": {
+    "defaultMessage": "WebSub主题不能有路径参数"
+  },
+  "Apis.Details.APIDefinition.AuditApi.FailedToValidate.Heading": {
+    "defaultMessage": "无法验证OpenAPI文件"
+  },
+  "error.list.401.description": {
+    "defaultMessage": "服务器无法验证您是否有权访问请求的资源"
+  },
+  "Apis.Details.Configuration.Configuration.requirements": {
+    "defaultMessage": "要求"
+  },
+  "Apis.Details.Endpoints.Endpoints.missing.prototype.url": {
+    "defaultMessage": "原型端点URL不应为空"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.awslambda.endpoint.accessMethod": {
+    "defaultMessage": "访问方法"
+  },
+  "Apis.Details.Configuration.Configuration.Design.sub.heading": {
+    "defaultMessage": "配置基本API元信息"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.thumbnail.upload.success": {
+    "defaultMessage": "缩略图上载成功"
+  },
+  "Apis.Details.Configuration.components.APISecurity.api.unsecured": {
+    "defaultMessage": "由于API没有安全的资源，因此不需要应用程序级安全性"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.upload.btn": {
+    "defaultMessage": "上传"
+  },
+  "Apis.Details.Properties.Properties.\n                    no.changes.to.save": {
+    "defaultMessage": "没有要保存的更改"
+  },
+  "Apis.Create.OpenAPI.ApiCreateOpenAPI.wizard.one": {
+    "defaultMessage": "提供OpenAPI"
+  },
+  "Apis.Details.Properties.Properties.editable.show.in.devporal": {
+    "defaultMessage": "在devportal中显示"
+  },
+  "Apis.Details.Configuration.components.StoreVisibility.dropdown.public": {
+    "defaultMessage": "平民的"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.type": {
+    "defaultMessage": "参数类型"
+  },
+  "Apis.Details.Edit.MediationPolicies.EditMediationPolicies.custom.mediation.policies": {
+    "defaultMessage": "自定义调解策略"
+  },
+  "Apis.Details.Resources.components.operationComponents.OperationGovernance.operation.scope.label.notAvailable": {
+    "defaultMessage": "无可用范围"
+  },
+  "Apis.Details.APIDefinition.DefinitionOutdated.service.retrieve.error": {
+    "defaultMessage": "为API定义呈现差异时出错"
+  },
+  "error.list.500.description": {
+    "defaultMessage": "服务器遇到内部错误或配置错误，无法完成您的请求。"
+  },
+  "Apis.Details.index.Tryout.menu.name": {
+    "defaultMessage": "测试"
+  },
+  "Apis.Details.Environments.Environments.revision.description.create": {
+    "defaultMessage": "新版本的简要说明"
+  },
+  "api.console.security.heading": {
+    "defaultMessage": "安全"
+  },
+  "Apis.Details.index.lifecycle": {
+    "defaultMessage": "生命周期"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.error.getting.published.external.stores": {
+    "defaultMessage": "获取发布的外部开发人员门户时出错！！{原因}"
+  },
+  "Apis.Details.Documents.Create.markdown.editor.add.document.cancel.button": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Documents.Delete.document.listing.delete.yes": {
+    "defaultMessage": "删除"
+  },
+  "Apis.Details.Configuration.Configuration.Endpoints.edit.api.endpoints": {
+    "defaultMessage": "编辑API端点"
+  },
+  "Apis.Details.Resources.Resources.api.scope.deleted.successfully": {
+    "defaultMessage": "API作用域删除成功！"
+  },
+  "error.list.404.description": {
+    "defaultMessage": "您正在查找的页面可能已被删除、名称已更改或暂时不可用。"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.async.api.import.definition.updated.successfully": {
+    "defaultMessage": "API定义更新成功"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.advance.endpoint.configuration": {
+    "defaultMessage": "高级配置"
+  },
+  "Apis.Details.Configurartion.components.QueryAnalysis": {
+    "defaultMessage": "查询分析"
+  },
+  "Apis.Details.Configuration.Configuration.transports": {
+    "defaultMessage": "运输工具"
+  },
+  "Apis.Details.Configuration.components.DescriptionEditor.edit.content.button": {
+    "defaultMessage": "编辑说明"
+  },
+  "Apis.Listing.components.TopMenu.apiproduct.singular": {
+    "defaultMessage": "API产品"
+  },
+  "Apis.Details.NewOverview.MetaData.provider": {
+    "defaultMessage": "提供者"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.connection.timed.out": {
+    "defaultMessage": "连接超时"
+  },
+  "Apis.Details.Monetization.Index.update.not.allowed": {
+    "defaultMessage": "*由于权限不足，您无权更新API货币化"
+  },
+  "Scopes.Create.CreateScope.roles.help": {
+    "defaultMessage": "输入有效角色，然后按“Enter”。"
+  },
+  "Apis.Details.components.APIDetailsTopMenu.state": {
+    "defaultMessage": "状态"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.create.new": {
+    "defaultMessage": "让我们开始吧！"
+  },
+  "Apis.Details.Configuration.Configuration.cache.timeout": {
+    "defaultMessage": "缓存超时（秒）"
+  },
+  "Apis.Details.Environments.Environments.Create.Revision.Deploy": {
+    "defaultMessage": "创建新修订并部署"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.save.api.definition": {
+    "defaultMessage": "保存API定义"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.grant.type.input": {
+    "defaultMessage": "赠款类型"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Create.APIProduct.APIProductCreateWrapper.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.docVisibility.dropdown.private": {
+    "defaultMessage": "私有的"
+  },
+  "Apis.Details.Security.SecurityOverview.delete": {
+    "defaultMessage": "删除"
+  },
+  "Scopes.Usage.Usage.api.name": {
+    "defaultMessage": "API名称："
+  },
+  "ServiceCatalog.Listing.Onboarding.sample.add": {
+    "defaultMessage": "添加示例服务"
+  },
+  "Apis.Details.NewOverview.MetaData.description.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.import.definition.graphql": {
+    "defaultMessage": "导入GraphQL架构定义"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.endpoint.empty.error": {
+    "defaultMessage": "在添加证书之前保存终结点"
+  },
+  "Apis.Details.Environments.Environments.undeploy.btn": {
+    "defaultMessage": "取消部署"
+  },
+  "Apis.Details.Comments.CommentAdd.btn.add.comment": {
+    "defaultMessage": "议论"
+  },
+  "Apis.Shared.ConfirmDialog.please.confirm": {
+    "defaultMessage": "请确认"
+  },
+  "Apis.Details.Configuration.components.APISecurity.tooltip": {
+    "defaultMessage": "此选项确定将用于保护此API的安全性的类型。可以使用OAuth2/Basic/ApiKey保护API，也可以使用所有这些来保护API。如果选择了OAuth2选项，相关API将需要有效的OAuth2令牌才能成功调用。"
+  },
+  "Apis.Details.Scopes.Scopes.heading.scope.title.tooltip2": {
+    "defaultMessage": "管理此API的本地作用域"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.awslambda.endpoint.accessKey": {
+    "defaultMessage": "访问密钥"
+  },
+  "Apis.Details.Documents.Edit.markdown.editor.upload.success.message": {
+    "defaultMessage": "文件上载成功。"
+  },
+  "Apis.Details.Scopes.Scopes.table.header.actions": {
+    "defaultMessage": "行动"
+  },
+  "Apis.Details.Documents.MarkdownEditor.update.content.button": {
+    "defaultMessage": "更新内容"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.uploading.btn": {
+    "defaultMessage": "正在上载"
+  },
+  "Scopes.Delete.Delete.scope.listing.label.ok.yes": {
+    "defaultMessage": "对"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.name": {
+    "defaultMessage": "名称*"
+  },
+  "Apis.Details.Documents.CreateEditForm.source": {
+    "defaultMessage": "资源"
+  },
+  "Apis.Details.Environments.Environments.revision.restore.confirm.ok": {
+    "defaultMessage": "对"
+  },
+  "Apis.Details.Topics.components.operationComponents.ListParameter.param.description": {
+    "defaultMessage": "描述"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.streaming.import.title": {
+    "defaultMessage": "导入AsyncAPI"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.no.username.error": {
+    "defaultMessage": "用户名不应为空"
+  },
+  "Apis.Details.Monetization.BusinessPlans.monetized": {
+    "defaultMessage": "货币化"
+  },
+  "Apis.Create.GraphQL.ApiCreateGraphQL.next": {
+    "defaultMessage": "下一步"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.api.definition": {
+    "defaultMessage": "API定义"
+  },
+  "Apis.APIProductCreateWrapper.error.errorMessage.create.revision": {
+    "defaultMessage": "创建API修订版时出错"
+  },
+  "Connection.Timeout": {
+    "defaultMessage": "连接超时"
+  },
+  "Apis.Details.Documents.CreateEditForm.source.url.helper.text.error.empty": {
+    "defaultMessage": "URL字段不能为空"
+  },
+  "Apis.Create.Components.DefaultAPIForm.api.context": {
+    "defaultMessage": "上下文"
+  },
+  "Apis.Create.GraphQL.ApiCreateGraphQL.error.policies.not.available": {
+    "defaultMessage": "限制策略不可用。请与管理员联系"
+  },
+  "Apis.Details.Configuration.components.APISecurity.TranportLevel.certificate.delete.error": {
+    "defaultMessage": "删除证书时出错"
+  },
+  "Apis.Details.NewOverview.MetaData.workflowStatus.not.set": {
+    "defaultMessage": "-"
+  },
+  "ServiceCatalog.ServicesTableView.ServicesTableView.created.time": {
+    "defaultMessage": "创建时间"
+  },
+  "Apis.Details.Documents.Edit.markdown.editor.update.success.message": {
+    "defaultMessage": "已成功更新。"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.success": {
+    "defaultMessage": "已成功添加调解策略"
+  },
+  "Apis.Listing.SampleAPI.popup.update.inprogress": {
+    "defaultMessage": "正在更新示例API。。。"
+  },
+  "Base.Errors.AuthorizedError.default_body": {
+    "defaultMessage": "用户无权访问API"
+  },
+  "Apis.Details.NewVersion.NewVersion.success": {
+    "defaultMessage": "已成功创建新版本"
+  },
+  "Apis.Details.MediationPolicies.EditMediationPolicy.download": {
+    "defaultMessage": "下载"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.title": {
+    "defaultMessage": "编辑"
+  },
+  "Apis.Details.Operations.Operations.title": {
+    "defaultMessage": "操作"
+  },
+  "Apis.Details.components.DeleteApiButton.button.delete": {
+    "defaultMessage": "删除"
+  },
+  "Apis.Details.Subscriptions.SubscriptionPoliciesManage.sub.heading": {
+    "defaultMessage": "将业务计划附加到API"
+  },
+  "Base.Header.navbar.GlobalNavBar.analytics": {
+    "defaultMessage": "分析"
+  },
+  "Apis.Details.Scopes.Scopes.heading.scope.add_new": {
+    "defaultMessage": "添加新的本地作用域"
+  },
+  "Scopes.Usage.Usage.scope.usage": {
+    "defaultMessage": "用法"
+  },
+  "Apis.Details.Resources.components.Operation.Delete": {
+    "defaultMessage": "删除"
+  },
+  "Apis.Details.Resources.components.operationComponents.select.parameter.type": {
+    "defaultMessage": "选择参数类型"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.download.error": {
+    "defaultMessage": "下载文件时出错"
+  },
+  "Apis.Details.Resources.components.operationComponents.parameter.name": {
+    "defaultMessage": "参数名称"
+  },
+  "Apis.Details.Properties.\n                                                            Properties.editable.show.in.devporal": {
+    "defaultMessage": "在devportal中显示"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.docVisibility": {
+    "defaultMessage": "文档可见性"
+  },
+  "Apis.Details.Configuration.components.Endpoints.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Shared.AppErrorBoundary.something.went.wrong": {
+    "defaultMessage": "出了点问题"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.select.category": {
+    "defaultMessage": "选择类别"
+  },
+  "Scopes.Delete.Delete.scope.deleted.successfully": {
+    "defaultMessage": "API作用域删除成功！"
+  },
+  "ServiceCatalog.Listing.Delete.confirm": {
+    "defaultMessage": "确认删除"
+  },
+  "Apis.Details.Documents.Create.markdown.editor.add.document.button": {
+    "defaultMessage": "添加文档"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.username.message": {
+    "defaultMessage": "输入用户名"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.error.subscription.unblock": {
+    "defaultMessage": "错误：无法取消阻止订阅。（原因：{消息}）"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.certificate.error": {
+    "defaultMessage": "添加证书时出错。"
+  },
+  "Apis.Details.NewOverview.Resources.resources": {
+    "defaultMessage": "资源"
+  },
+  "Apis.Details.index.resources": {
+    "defaultMessage": "资源"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.user.name.input": {
+    "defaultMessage": "用户名"
+  },
+  "Apis.Details.Documents.Delete.document.delete.successfully": {
+    "defaultMessage": "已成功删除。"
+  },
+  "Apis.Details.index.asyncApi.definition": {
+    "defaultMessage": "AsyncAPI定义"
+  },
+  "Apis.Listing.components.TopMenu.apiproducts": {
+    "defaultMessage": "API产品"
+  },
+  "Apis.Details.NewOverview.Endpoints.endpoint.security": {
+    "defaultMessage": "端点安全性"
+  },
+  "Apis.Details.Configuration.Configuration.save": {
+    "defaultMessage": "保存"
+  },
+  "ServiceCatalog.Listing.Listing.service.deleted.successfully": {
+    "defaultMessage": "服务删除成功！"
+  },
+  "Apis.Shared.PublisherRootErrorBoundary.refresh": {
+    "defaultMessage": "刷新"
+  },
+  "Apis.Details.Configuration.components.SchemaValidation.description.question": {
+    "defaultMessage": "是否要启用架构验证？"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.schema.definition": {
+    "defaultMessage": "架构定义"
+  },
+  "Apis.Listing.SampleAPI.popup.update.complete": {
+    "defaultMessage": "API更新成功！"
+  },
+  "Scopes.EditScope.short.description.about.the.scope": {
+    "defaultMessage": "关于范围的简短描述"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.active.subs.state": {
+    "defaultMessage": "忙碌的"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.api.definition.oas.updated.successfully": {
+    "defaultMessage": "API定义更新成功"
+  },
+  "Apis.Details.ProductResources.ProductResourcesWorkspace.ApisnotFound": {
+    "defaultMessage": "尚未创建REST API"
+  },
+  "Apis.Details.Properties.Properties.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Details.Configuration.components.KeyManager.allow.selected": {
+    "defaultMessage": "允许选择"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.create.type.support.forum": {
+    "defaultMessage": "支持论坛"
+  },
+  "Apis.Details.Overview.CustomizedStepper.publish": {
+    "defaultMessage": "出版"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditPayloadProperty.title": {
+    "defaultMessage": "编辑"
+  },
+  "ServiceCatalog.Listing.Delete.ok.confirm": {
+    "defaultMessage": "是否确实要删除服务{service}？"
+  },
+  "Apis.Create.APIProduct.APIProductCreateWrapper.publish": {
+    "defaultMessage": "发布"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.factor": {
+    "defaultMessage": "因素"
+  },
+  "Apis.Details.APIDefinition.ImportDefinition.WSDL.updated.successfully": {
+    "defaultMessage": "已成功更新WSDL"
+  },
+  "Apis.Details.GoTo.GoTo.btn": {
+    "defaultMessage": "去"
+  },
+  "Scopes.Create.CreateScope.create.new.scope": {
+    "defaultMessage": "创建新范围"
+  },
+  "Apis.Details.Documents.TextEditor.edit.content": {
+    "defaultMessage": "编辑内容"
+  },
+  "Apis.Details.Environments.Environments.revision.create.heading": {
+    "defaultMessage": "创建新版本（从当前API）"
+  },
+  "Apis.Details.Configurartion.components.QueryAnalysis.edit": {
+    "defaultMessage": "编辑复杂性值"
+  },
+  "Apis.Details.Environments.Environments.deployments.sub.heading": {
+    "defaultMessage": "在网关环境中创建修订和部署"
+  },
+  "Apis.Details.Overview.CustomizedStepper.prototyped": {
+    "defaultMessage": "原型"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.APIProduct.sub.heading": {
+    "defaultMessage": "API产品的业务信息"
+  },
+  "Scopes.Create.Scope.name.length.exceeded": {
+    "defaultMessage": "超过60个字符的最大长度限制"
+  },
+  "ServiceCatalog.ServicesTableView.ServicesTableView.usage": {
+    "defaultMessage": "使用次数"
+  },
+  "Apis.Details.Security.AddPolicy.policy.label": {
+    "defaultMessage": "政策："
+  },
+  "Apis.Details.APIDefinition.DefinitionOutdated.import.error": {
+    "defaultMessage": "重新导入API定义时出错"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.input.parameter.name": {
+    "defaultMessage": "参数名称"
+  },
+  "Apis.Details.Comments.CommentOptions.delete": {
+    "defaultMessage": "删除"
+  },
+  "Scopes.Usage.Usage.api.context": {
+    "defaultMessage": "上下文："
+  },
+  "Apis.Details.Documents.Delete.document.listing.delete.confirm": {
+    "defaultMessage": "确认删除"
+  },
+  "ServiceCatalog.Listing.Overview.download.service.error": {
+    "defaultMessage": "下载服务定义时出错。"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.select.format.of.data.type": {
+    "defaultMessage": "选择数据类型的格式"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.error.while.updating.async.api.definition": {
+    "defaultMessage": "更新API定义时出错"
+  },
+  "Apis.Details.Configuration.components.storeVisibility.tooltip.public": {
+    "defaultMessage": "公众："
+  },
+  "Apis.Details.Resources.components.operationComponents.required.helper.text": {
+    "defaultMessage": "检查参数是否为必填项。"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.connection.closed": {
+    "defaultMessage": "连接已关闭"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurityConfig.config.save.button": {
+    "defaultMessage": "提交"
+  },
+  "Apis.Details.Topics.components.operationComponents.ListParameter.param.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Shared.PublisherRootErrorBoundary.something.went.wrong.while.rendering.button": {
+    "defaultMessage": "渲染时出错"
+  },
+  "Apis.Listing.components.TopMenu.displaying": {
+    "defaultMessage": "总计："
+  },
+  "LoginDenied.message": {
+    "defaultMessage": "服务器无法验证您是否有权访问请求的资源。"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.audit.api": {
+    "defaultMessage": "审核API"
+  },
+  "Apis.Details.Endpoints.LoadbalanceFailoverConfig.production.loadbalance.endpoint": {
+    "defaultMessage": "生产负载平衡端点"
+  },
+  "Apis.Listing.import.from.service.catalog.title": {
+    "defaultMessage": "从服务目录导入"
+  },
+  "Apis.Create.StreamingAPI.APICreateStreamingAPI.websub.api.sub.heading": {
+    "defaultMessage": "通过提供名称、版本和上下文创建API"
+  },
+  "Apis.Details.Scopes.Scopes.heading.scope.title.tooltip": {
+    "defaultMessage": "管理此API的本地作用域"
+  },
+  "Apis.Details.BusinessInformation.BusinessInformation.business.owner.name.helper.text": {
+    "defaultMessage": "提供企业所有者的名称"
+  },
+  "Apis.Details.Documents.Listing.add.new.msg.content": {
+    "defaultMessage": "您可以向API添加不同类型的文档。适当的文档有助于API发布者更好地营销其API并维持竞争。"
+  },
+  "Apis.Details.NewOverview.Endpoints.not.set": {
+    "defaultMessage": "-"
+  },
+  "Apis.Details.Monetization.BusinessPlans.commercial.policies": {
+    "defaultMessage": "商业政策"
+  },
+  "ServiceCatalog.CreateApi.api.created.successfully": {
+    "defaultMessage": "已成功从服务创建API！"
+  },
+  "Apis.Listing.SampleAPI.popup.revision.inprogress": {
+    "defaultMessage": "正在创建示例API的修订。。。"
+  },
+  "ServiceCatalog.CreateApi.select.protocol": {
+    "defaultMessage": "选择协议"
+  },
+  "Apis.Details.Comments.Comment.load.more.replies": {
+    "defaultMessage": "显示更多答复"
+  },
+  "Apis.Details.Scopes.CreateScope.create.new.scope": {
+    "defaultMessage": "创建新范围"
+  },
+  "Apis.Details.Configuration.Configuration.isdefault.no": {
+    "defaultMessage": "NO"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.production.endpoint.production.header": {
+    "defaultMessage": "生产终结点"
+  },
+  "Apis.Details.NewOverview.MetaData.version": {
+    "defaultMessage": "版本"
+  },
+  "Apis.Details.index.operations": {
+    "defaultMessage": "操作"
+  },
+  "Apis.Details.APIDefinition.DefinitionOutdated.outdated.definition.heading": {
+    "defaultMessage": "过时的定义"
+  },
+  "Apis.Details.Documents.View.error.downloading": {
+    "defaultMessage": "下载文件时出错"
+  },
+  "Apis.Details.index.endpoints": {
+    "defaultMessage": "端点"
+  },
+  "Apis.Details.Scopes.Scopes.table.header.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Details.NewVersion.NewVersion.default": {
+    "defaultMessage": "将此设置为默认版本"
+  },
+  "Apis.Details.Scopes.EditScope.update": {
+    "defaultMessage": "使现代化"
+  },
+  "ServiceCatalog.Listing.Overview.service.type.rest.tooltip": {
+    "defaultMessage": "休息服务"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.execute.fault.sequence": {
+    "defaultMessage": "执行故障序列"
+  },
+  "Apis.Details.Comments.load.previous.comments": {
+    "defaultMessage": "显示更多信息"
+  },
+  "Apis.Details.Documents.Delete.document.listing.label.ok.yes": {
+    "defaultMessage": "对"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.connection.failed": {
+    "defaultMessage": "连接失败"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.click.or.drop.to.upload.file": {
+    "defaultMessage": "单击或拖动要上载的证书文件。"
+  },
+  "Apis.Details.Monetization.Index.something.went.wrong.while.configuring.monetization": {
+    "defaultMessage": "配置货币化时出错"
+  },
+  "Apis.Create.WSDL.Steps.ProvideWSDL.Input.file.archive.dropzone": {
+    "defaultMessage": "拖放WSDL文件/存档{中断}-或-"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.error.while.updating.api.definition": {
+    "defaultMessage": "更新API定义时出错"
+  },
+  "Apis.Details.Topics.components.operationComponents.ListParameter.param.datatype": {
+    "defaultMessage": "数据类型"
+  },
+  "Apis.Shared.ConfirmDialog.ok": {
+    "defaultMessage": "OK"
+  },
+  "Apis.Details.Properties.Properties.add.new.property.message.title": {
+    "defaultMessage": "创建其他属性"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.config.save.button": {
+    "defaultMessage": "保存"
+  },
+  "Apis.Details.Documents.Delete.document.delete.error": {
+    "defaultMessage": "删除文档时出错！"
+  },
+  "Apis.Details.APIDefinition.WSDL.download.definition": {
+    "defaultMessage": "下载WSDL"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.rest.api.scratch.title": {
+    "defaultMessage": "从头开始"
+  },
+  "Apis.Create.Default.APICreateDefault.error.errorMessage.deploy.revision": {
+    "defaultMessage": "部署API修订版时出错"
+  },
+  "Apis.Details.APIDefinition.AuditApi.dataCriticality": {
+    "defaultMessage": "{dataCriticalityText}{dataCriticality}"
+  },
+  "Apis.Details.Resources.components.operationComponents.EditParameter.select.format.of.data.type.none.option": {
+    "defaultMessage": "无数据类型"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.successfully.published.to.external.stores": {
+    "defaultMessage": "已成功发布到外部开发人员门户：{successfulStores}"
+  },
+  "Apis.Create.AsyncAPI.ApiCreateAsyncAPI.cancel": {
+    "defaultMessage": "取消"
+  },
+  "Apis.Listing.SampleAPI.SampleAPI.rest.d.sample.content": {
+    "defaultMessage": "披萨屋API示例"
+  },
+  "Apis.Details.Configuration.components.CORSConfiguration.cors.configuration": {
+    "defaultMessage": "CORS配置"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.receiver.io.error.receiving": {
+    "defaultMessage": "接收器IO接收错误"
+  },
+  "Apis.Details.components.APIDetailsTopMenu.created.by": {
+    "defaultMessage": "创建人："
+  },
+  "Apis.Details.Operations.Operation.operation.scope.label.default": {
+    "defaultMessage": "经营范围："
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.optimize.select": {
+    "defaultMessage": "优化"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.clientSecret.input": {
+    "defaultMessage": "客户端机密"
+  },
+  "ServiceCatalog.Listing.Usages.api.context": {
+    "defaultMessage": "上下文"
+  },
+  "Apis.Details.APIDefinition.AuditApi.WaitForReport": {
+    "defaultMessage": "请稍候。。。"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.manage.subscriptions": {
+    "defaultMessage": "管理订阅"
+  },
+  "Apis.Details.NewOverview.MetaData.securityScheme": {
+    "defaultMessage": "API安全性"
+  },
+  "Apis.Details.Topics.components.operationComponents.ListPayloadProps.data.type": {
+    "defaultMessage": "数据类型"
+  },
+  "Apis.Details.Configuration.components.Subscription.signature.header": {
+    "defaultMessage": "签名标题"
+  },
+  "Apis.Details.Properties.Properties.\n                                property.name.exists": {
+    "defaultMessage": "属性名称已存在"
+  },
+  "Apis.Details.QueryAnalysis.UpdateComplexity.typeName": {
+    "defaultMessage": "类型"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.subscription.blocked": {
+    "defaultMessage": "订阅已被阻止。"
+  },
+  "ServiceCatalog.CreateApi.api.version.label": {
+    "defaultMessage": "版本"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.endpoint.type.change.confirmation": {
+    "defaultMessage": "更改端点类型"
+  },
+  "Apis.Details.Topics.components.operationComponents.ListPayloadProps.actions": {
+    "defaultMessage": "行动"
+  },
+  "Apis.Shared.PublisherRootErrorBoundary.refresh.or.try.again.message": {
+    "defaultMessage": "您可以立即刷新页面或稍后重试"
+  },
+  "Apis.Details.Documents.View.meta.name": {
+    "defaultMessage": "名称"
+  },
+  "Apis.Details.Resources.components.operationComponents.ListParameter.data.type": {
+    "defaultMessage": "数据类型"
+  },
+  "Apis.Details.Endpoints.GenericEndpoint.check.endpoint": {
+    "defaultMessage": "检查端点状态"
+  },
+  "Apis.Create.streaming.Components.SelectPolicies.business.plans": {
+    "defaultMessage": "协议"
+  },
+  "Apis.Details.Properties.Properties.editable.row.property.name": {
+    "defaultMessage": "属性名称"
+  },
+  "Apis.Details.Environments.Environments.deploy.new.revision": {
+    "defaultMessage": "部署新修订版"
+  },
+  "Apis.Details.Security.AddPolicy.select.policy": {
+    "defaultMessage": "请选择策略"
+  },
+  "Apis.Create.APIProduct.APIProductCreateWrapper.back": {
+    "defaultMessage": "返回"
+  },
+  "Apis.Details.NewOverview.MetaData.visibility.store.res.tooltip": {
+    "defaultMessage": "受角色限制：API仅对您指定的租户开发人员门户中的特定用户角色可见。"
+  },
+  "Apis.Details.Configuration.components.transport.empty": {
+    "defaultMessage": "请至少选择一个传输！"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.EndpointSecurity.no.password.error": {
+    "defaultMessage": "密码不应为空"
+  },
+  "Apis.Details.Configuration.Configuration.requirements.state.transition": {
+    "defaultMessage": "下一个州过渡的要求"
+  },
+  "Apis.Details.Configuration.components.Tags.title": {
+    "defaultMessage": "标签"
+  },
+  "Apis.Details.Documents.CreateEditForm.source.markdown": {
+    "defaultMessage": "降价"
+  },
+  "Apis.Details.Scopes.Roles.Invalid": {
+    "defaultMessage": "角色无效"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.error.code": {
+    "defaultMessage": "错误代码"
+  },
+  "Apis.Details.Endpoints.AdvancedConfig.AdvanceEndpointConfig.leave.as.is": {
+    "defaultMessage": "保持原样"
+  },
+  "Apis.Details.APIDefinition.APIDefinition.error.while.parsing.api.definition": {
+    "defaultMessage": "更新API定义时出错"
+  },
+  "ServiceCatalog.Listing.Usages.api.name": {
+    "defaultMessage": "API名称"
+  },
+  "Apis.Details.components.APIDetailsTopMenu.current.api": {
+    "defaultMessage": "当前API"
+  },
+  "Apis.Details.Configuration.components.KeyManager.configuration": {
+    "defaultMessage": "密钥管理器配置"
+  },
+  "Apis.Details.Configuration.components.Endpoints.production": {
+    "defaultMessage": "生产"
+  },
+  "Apis.Details.Subscriptions.SubscriptionAvailability.sub.heading": {
+    "defaultMessage": "向租户提供订阅"
+  },
+  "Apis.Details.Security.SecurityOverview.threat.protection.policies": {
+    "defaultMessage": "威胁保护策略"
+  },
+  "Apis.Shared.PublisherRootErrorBoundary.something.went.wrong.while.rendering.heading": {
+    "defaultMessage": "渲染时出错"
+  },
+  "Apis.Details.Configuration.components.storeVisibility.dropdown.private": {
+    "defaultMessage": "对我的域可见"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.confirm.certificate.delete": {
+    "defaultMessage": "是否要删除"
+  },
+  "Apis.Details.Operations.Operation.operation.no.sharedpi.scope.available": {
+    "defaultMessage": "没有可用的共享作用域"
+  },
+  "Apis.Details.index.monetization": {
+    "defaultMessage": "货币化"
+  },
+  "Apis.Create.AsyncAPI.ApiCreateAsyncAPI.wizard.one": {
+    "defaultMessage": "提供AsyncAPI"
+  },
+  "Apis.Details.Operations.Operation.operation.no.api.scope.available": {
+    "defaultMessage": "没有可用的API作用域"
+  },
+  "Apis.Details.Topics.components.operationComponents.OperationGovernance.operation.scope.select.shared": {
+    "defaultMessage": "共享作用域"
+  },
+  "Apis.Details.Configuration.Configuration.section.request": {
+    "defaultMessage": "要求"
+  },
+  "Apis.Details.NewOverview.MetaData.config": {
+    "defaultMessage": "配置"
+  },
+  "Apis.Details.Documents.Download.documents.markdown.editor.download.error": {
+    "defaultMessage": "下载文件时出错"
+  },
+  "Apis.Details.Subscriptions.SubscriptionsTable.blocked.production.only.subs.state": {
+    "defaultMessage": "仅阻止生产"
+  },
+  "ServiceCatalog.Listing.components.ServiceCard.version": {
+    "defaultMessage": "版本"
+  },
+  "Apis.Details.NewOverview.Operations.operation": {
+    "defaultMessage": "操作"
+  },
+  "Apis.Details.Environments.Environments.create.create": {
+    "defaultMessage": "创建"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.UploadCertificate.alias": {
+    "defaultMessage": "别名"
+  },
+  "Apis.Details.Properties.Properties.api.properties": {
+    "defaultMessage": "API属性"
+  },
+  "Apis.Details.components.DeleteApiButton.title": {
+    "defaultMessage": "删除{type}"
+  },
+  "Scopes.Usage.UsageView.resource.verb": {
+    "defaultMessage": "动词"
+  },
+  "Apis.Details.Documents.Listing.documents.listing.fetching.error.message.api.product": {
+    "defaultMessage": "获取API产品的文档列表时出错"
+  },
+  "Apis.Details.NewOverview.Endpoints.endpoints": {
+    "defaultMessage": "端点"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.awslambda.endpoint.accessMethod.stored": {
+    "defaultMessage": "使用存储的AWS凭据"
+  },
+  "Apis.Details.NewOverview.MetaData.description": {
+    "defaultMessage": "描述"
+  },
+  "Apis.Details.Topics.components.operationComponents.EditPayloadProperty.data.type": {
+    "defaultMessage": "数据类型"
+  },
+  "Base.Errors.ResourceNotfound.default_tittle": {
+    "defaultMessage": "找不到页面"
+  },
+  "Apis.Details.Configuration.components.Social.giturl.help": {
+    "defaultMessage": "此GitHub URL将在开发人员门户的API概述页面中提供"
+  },
+  "Apis.Details.Documents.CreateEditForm.document.summary.error.empty": {
+    "defaultMessage": "单据摘要不能为空"
+  },
+  "Apis.Listing.components.ImageGenerator.ThumbnailView.saving.btn": {
+    "defaultMessage": "节省物"
+  },
+  "Apis.Details.Endpoints.EndpointOverview.general.config.header": {
+    "defaultMessage": "常规端点配置"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.external.stores.not.found.body": {
+    "defaultMessage": "没有为当前租户配置外部开发人员门户"
+  },
+  "Apis.Details.Documents.GoToEdit.add.content": {
+    "defaultMessage": "添加内容"
+  },
+  "Apis.Details.ExternalStores.ExternalStores.error.while.updating.external.stores": {
+    "defaultMessage": "更新外部开发人员门户时出错！！{原因}"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.global.delete": {
+    "defaultMessage": "无法删除全局中介策略。"
+  },
+  "ServiceCatalog.Listing.Overview.definition.download": {
+    "defaultMessage": "服务定义"
+  },
+  "Scopes.EditScope.scope.updated.successfully": {
+    "defaultMessage": "已成功更新范围"
+  },
+  "Apis.Details.LifeCycle.LifeCycle.change.not.allowed": {
+    "defaultMessage": "*由于权限不足，您无权更改API的生命周期状态"
+  },
+  "Apis.Details.Endpoints.LoadbalanceFailoverConfig.none.heading": {
+    "defaultMessage": "未配置"
+  },
+  "Apis.Create.AsyncAPI.ApiCreateAsyncAPI.sub.heading": {
+    "defaultMessage": "使用现有的AsyncAPI定义文件或URL创建API。"
+  },
+  "Apis.Details.MediationPolicies.Edit.EditMediationPolicy.common.policies": {
+    "defaultMessage": "共同政策"
+  },
+  "Apis.Details.index.environments": {
+    "defaultMessage": "部署"
+  },
+  "ServiceCatalog.Listing.Overview.security.type": {
+    "defaultMessage": "安全类型"
+  },
+  "Apis.Details.Endpoints.GeneralConfiguration.Certificates.delete.ok.button": {
+    "defaultMessage": "OK"
+  },
+  "Apis.Details.Properties.Properties.\n                            property.name.exists": {
+    "defaultMessage": "属性名称已存在"
+  }
+}
